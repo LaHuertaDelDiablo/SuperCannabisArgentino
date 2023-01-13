@@ -1,17 +1,8 @@
-<h1 align="left">Bienvenidos 👋 al proyecto de SuperCannabis Argentino</h1>
+<h1 align="center">Bienvenidos 👋 al proyecto de SuperCannabis Argentino</h1>
 
 ###
 
-<p align="left">Primer genética de cannabis poliploide de desarrollo grupal por la comunidad canabica Argentina con uso y distribución libre</p>
-
-###
-
-
-**Esto es una presentación, necesito apoyo de la comunidad para poder realizarlo, si llegamos a 100 o 200 cultivadores con ganas de participar armo un reel en Instagram con la lista de materiales y podemos hacer el primer vivo explicando la técnica a fines de enero.**
-
-*Pueden confirmar la participación con un comentario en la destacada de Supercannabis Argentino en el Instagram de @lahuertadeldiablo*
-
-**Si querés involucrarte más en el proyecto vamos a necesitar mucha ayuda, acá hay una lista de tareas en las que podés participar.**
+<p align="center">Primer genética de cannabis poliploide de desarrollo grupal por la comunidad canabica Argentina con uso y distribución libre</p>
 
 ###
 
@@ -109,6 +100,25 @@ Al mismo tiempo nadie puede registrarlo para sí mismo, es una planta, tiene que
 ###
 
 NO! Vamos a usar cosas simples, frascos, un gotero, servilletas de papel y un medicamento que se consigue en la farmacia para realizar la mutación.
+
+###
+
+
+
+
+###
+
+<h2 align="left">Necesito equipo de laboratorio para participar?</h2>
+
+###
+
+NO! Vamos a usar cosas simples, frascos, un gotero, servilletas de papel y un medicamento que se consigue en la farmacia para realizar la mutación.
+
+###
+
+<h2 align="left">Hay algún requerimiento para participar?</h2>
+
+Tener ganas de cultivar, curiosidad y el Reprocann al día.
 
 ###
 
@@ -220,15 +230,16 @@ Aquí hay algunos ejemplos de papers o estudios científicos que han investigado
 
 
 
+**Esto es una presentación, necesito apoyo de la comunidad para poder realizarlo, si llegamos a 100 o 200 cultivadores con ganas de participar armo un reel en Instagram con la lista de materiales y podemos hacer el primer vivo explicando la técnica a fines de enero.**
+
+**Pueden confirmar la participación con un comentario en la destacada de Supercannabis Argentino en el Instagram de @lahuertadeldiablo o enviar un dm**
+
+**Si querés involucrarte más en el proyecto vamos a necesitar mucha ayuda, acá hay una lista de tareas en las que podés participar**
 
 
+Tareas en las que vamos a necesitar colaboracion.
 
-
-
-
-
-
-- [ ] An uncompleted task
+- [ ] Legales 
 - [x] A completed task
 
 
