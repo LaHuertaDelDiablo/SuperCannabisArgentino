@@ -28,6 +28,26 @@
    de selección y mejora genética.
 ~~~
 
+###
+
+<h2 align="left">Porque es un proyecto grupal para la comunidad canabica?</h2>
+
+###
+
+
+La investigación de poliploides comenzó en 1911, el botánico estadounidense Luther Burbank quería mejorar una pera, estos trabajos se siguen realizando hoy en dia en laboratorios de todo el mundo, muchas universidades publican papers con estudios sobre inducción a poliploide en plantas de cannabis obteniendo resultados increíbles.
+La compañía Oregon CBD en USA por ejemplo tiene la mayor producción de plantas triploides de alto CBD del mundo, estas plantas producen el doble de flores que una planta normal.
+En el repositorio de archivos, pueden acceder a muchos de estos papers universitarios, todos tiene el mismo problema, solo realizan las pruebas sobre 6 o 12 plantas de la misma genética, incluso usan clones de la misma planta madre esperando resultados diferentes.
+Nosotros como cultivadores conocemos la variabilidad de genotipos y fenotipos en el cannabis, realizando pruebas de inducción diploide en forma hogareña descubrí que cada genética responde en forma totalmente diferente, la clave es encontrar la que mejor responda y genere una producción multiplicada x 3
+La comunidad canabica Argentina en forma grupal, va a replicar un protocolo de laboratorio de inducción poliploide en nuestras casas, siguiendo un procedimiento sencillo podemos amar una base con los resultados entre cientos de genéticas y miles de fenotipos.
+esto va a ser un procedimiento científico llevado adelante por no científicos, pero tenemos una ventaja muy grande con respecto a un experimento controlado en una universidad, nosotros sabemos cultivar, tenemos una cantidad gigante de genéticas tanto locales como importadas, bancos de desarrollo de semillas que pueden colaborar y un mapa con variabilidad climática que nos va a permitir probar las genéticas en muchas condiciones diferentes.
+Además contamos con el apoyo del programa Reprocann lo cual nos permite realizarlo en un entorno legal.
+
+
+<p align="left">El SuperCanabis es una genetica de cannabis seleccio</p>
+
+
+
 
 - [ ] An uncompleted task
 - [x] A completed task
