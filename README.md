@@ -6,13 +6,13 @@
 
 ###
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*
 Esto es una presentación, necesito apoyo de la comunidad para poder realizarlo, si llegamos a 100 o 200 cultivadores con ganas de participar armo un reel en Instagram con la lista de materiales y podemos hacer el primer vivo explicando la técnica a fines de enero.
 
 Pueden confirmar la participación con un comentario en la destacada de Supercannabis Argentino en el Instagram de @lahuertadeldiablo 
 
 Si querés involucrarte más en el proyecto vamos a necesitar mucha ayuda, acá hay una lista de tareas en las que podés participar.
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*
 
 ###
 
