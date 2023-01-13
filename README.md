@@ -36,8 +36,9 @@
 
 La investigación de poliploides comenzó en 1911, el botánico estadounidense Luther Burbank quería mejorar una pera, estos trabajos se siguen realizando hoy en dia en laboratorios de todo el mundo, muchas universidades publican papers con estudios sobre inducción a poliploide en plantas de cannabis obteniendo resultados increíbles.
 
-La compañía Oregon CBD en USA por ejemplo tiene la mayor producción de plantas triploides de alto CBD del mundo, estas plantas producen el doble de flores que una planta normal.
-En el repositorio de archivos, pueden acceder a muchos de estos papers universitarios, todos tiene el mismo problema, solo realizan las pruebas sobre 6 o 12 plantas de la misma genética, incluso usan clones de la misma planta madre esperando resultados diferentes.
+La compañía Oregon CBD en USA por ejemplo tiene la mayor producción de plantas triploides de alto CBD del mundo, estas plantas producen el doble de flores que una planta normal, ellos pudieron hacer esa investigacion con 11 personas, nosotros somos cientos, se imaginan el resultado?
+
+En el repositorio de archivos, pueden acceder a muchos de estos papers universitarios sobre el tema, todos tiene el mismo problema, solo realizan las pruebas sobre 6 o 12 plantas de la misma genética, incluso usan clones de la misma planta madre esperando resultados diferentes.
 
 Nosotros como cultivadores conocemos la variabilidad de genotipos y fenotipos en el cannabis, realizando pruebas de inducción diploide en forma hogareña descubrí que cada genética responde en forma totalmente diferente, la clave es encontrar la que mejor responda y genere una producción multiplicada x 3
 
@@ -50,6 +51,38 @@ Además contamos con el apoyo del programa Reprocann lo cual nos permite realiza
 Somos una comunidad nueva y en desarrollo, con un potencial increíble, Argentina tiene que estar ubicada número UNO en cualquier actividad relacionada al agro, si intercambiamos conocimiento y trabajamos vamos a obtener resultados extraordinarios.
 Vamos a poner a Argentina en el podio de la producción de cannabis de calidad a nivel mundial.
 </b>  </i>
+
+###
+
+<h2 align="left">Como puedo participar?</h2>
+
+###
+
+Es muy fácil, tenemos que cultivar 2 plantas de la misma genética, la que más nos guste, una la vamos a mutar a poliploide siguiendo un video instructivo, la otra va a quedar normal, durante el ciclo de cultivo tenemos que controlar los cambios entre la mutada (poliploide) y la normal y reportarlos en un formulario para que armemos una base de datos con los resultados de todas las genéticas.
+Vamos a reportar ítems como cantidad de flores, aspecto, medidas, cantidad de resina, cambios en los terpenos, resistencia a plagas y hongos, también va a incluir fotos de las plantas para poder compararlas.
+
+###
+
+<h2 align="left">Que vamos a hacer con esa informacion?</h2>
+
+###
+
+El proyecto tiene 3 etapas 
+
+Etapa 1 Búsqueda de la genética correcta:
+Con los datos de las plantas que mutamos, vamos a comparar resultados para seleccionar las genéticas y fenotipos que mejor respondieron produciendo mayor cantidad de flores y resina,
+
+Etapa 2 Distribuir las genéticas para pruebas:
+Como comunidad vamos a distribuir clones/semillas de las genéticas seleccionadas para probarlas en diferentes zonas climáticas y condiciones de cultivo, repitiendo el protocolo con una cantidad limitada de genéticas seleccionadas por el nivel de respuesta a la mutación.
+
+Etapa 3 Selección en forma grupal de la genética ganadora (sería ideal realizarlo en alguna copa de cata) y definirla como genética base para el SuperCannabis Argentino.
+
+
+
+
+
+
+
 
 
 
