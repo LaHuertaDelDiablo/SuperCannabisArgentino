@@ -34,7 +34,6 @@
 
 ###
 
-
 La investigación de poliploides comenzó en 1911, el botánico estadounidense Luther Burbank quería mejorar una pera, estos trabajos se siguen realizando hoy en dia en laboratorios de todo el mundo, muchas universidades publican papers con estudios sobre inducción a poliploide en plantas de cannabis obteniendo resultados increíbles.
 
 La compañía Oregon CBD en USA por ejemplo tiene la mayor producción de plantas triploides de alto CBD del mundo, estas plantas producen el doble de flores que una planta normal.
@@ -47,10 +46,12 @@ esto va a ser un procedimiento científico llevado adelante por no científicos,
 
 Además contamos con el apoyo del programa Reprocann lo cual nos permite realizarlo en un entorno legal.
 
-<b>
+<b> <i>
 Somos una comunidad nueva y en desarrollo, con un potencial increíble, Argentina tiene que estar ubicada número UNO en cualquier actividad relacionada al agro, si intercambiamos conocimiento y trabajamos vamos a obtener resultados extraordinarios.
 Vamos a poner a Argentina en el podio de la producción de cannabis de calidad a nivel mundial.
-</b>
+</b>  </i>
+
+
 
 <p align="left">El SuperCanabis es una genetica de cannabis seleccio</p>
 
