@@ -1,35 +1,32 @@
-<h1><span style="font-family:Tahoma,Geneva,sans-serif">Bienvenidos al proyecto de SuperCannabis Argentino</span></h1>
+<h1 align="left">Bienvenidos 👋 al proyecto de SuperCannabis Argentino</h1>
 
-<p><span style="font-family:Tahoma,Geneva,sans-serif"><span style="font-size:16px">Primer gen&eacute;tica de cannabis poliploide de desarrollo grupal por la comunidad canabica Argentina con uso y distribuci&oacute;n libre&nbsp;</span></span></p>
+###
 
-<h1><span style="font-family:Tahoma,Geneva,sans-serif">Que es el SuperCanabis</span></h1>
+<p align="left">Primer genética de cannabis poliploide de desarrollo grupal por la comunidad canabica Argentina con uso y distribución libre</p>
 
-<p>&nbsp;</p>
+###
 
-<p>&nbsp;</p>
+<h2 align="left">About me</h2>
 
-<h1>&nbsp;</h1>
+###
 
-<p>&nbsp;</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-<p>&nbsp;</p>
+###
 
-<p>&nbsp;</p>
+<h2 align="left">I code with</h2>
 
-<p>&nbsp;</p>
+###
 
-<p>&nbsp;</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+</div>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><span style="font-family:Tahoma,Geneva,sans-serif"><img alt="lahuertadeldiablo" src="https://komarev.com/ghpvc/?username=lahuertadeldiablo&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></span></p>
-
-<p><span style="font-family:Tahoma,Geneva,sans-serif">- 👯 Queres sumarte al proyecto? [yo puedo ayudar!](http://www.caca.com/) - 📫 como contactarnos **ivan@lahuertadeldiablo.com**</span></p>
-
-<h3><span style="font-family:Tahoma,Geneva,sans-serif">Connect with me:</span></h3>
-
-<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><a href="https://instagram.com/https://instagram.com/lahuertadeldiablo?igshid=ymmymta2m2y=" target="blank"><img alt="https://instagram.com/lahuertadeldiablo?igshid=ymmymta2m2y=" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="height:30px; width:40px" /></a></span></strong></p>
+###
