@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">#Tamaño mayor: las plantas poliploides tienden a ser más grandes y más fuertes que las plantas diploides, lo que las hace más resistentes a enfermedades y plagas.<br><br>#Mayor rendimiento: las plantas poliploides tienden a tener un mayor rendimiento en términos de producción de flores y resina,.<br><br>#Mayor resistencia al estrés: las plantas poliploides tienden a ser más tolerantes a condiciones de estrés ambiental, como sequías o heladas.<br><br>#Mejor calidad de los produccion: las plantas poliploides a menudo tienen una mejor calidad de flores y semillas, con una mayor resistencia y una mejor apariencia.<br><br>#Mejor adaptación: las plantas poliploides pueden ser mejor adaptadas a diferentes condiciones ambientales y requerimientos de cultivo.<br><br>#Mayor variabilidad genética: las plantas poliploides pueden tener una mayor variabilidad genética debido a los cromosomas adicionales, lo que puede ser útil en programas de selección y mejora genética.</p>
+<p align="left">1. Tamaño mayor: las plantas poliploides tienden a ser más grandes y más fuertes que las plantas diploides, lo que las hace más resistentes a enfermedades y plagas.<br><br>2. Mayor rendimiento: las plantas poliploides tienden a tener un mayor rendimiento en términos de producción de flores y resina,.<br><br>#Mayor resistencia al estrés: las plantas poliploides tienden a ser más tolerantes a condiciones de estrés ambiental, como sequías o heladas.<br><br>#Mejor calidad de los produccion: las plantas poliploides a menudo tienen una mejor calidad de flores y semillas, con una mayor resistencia y una mejor apariencia.<br><br>#Mejor adaptación: las plantas poliploides pueden ser mejor adaptadas a diferentes condiciones ambientales y requerimientos de cultivo.<br><br>#Mayor variabilidad genética: las plantas poliploides pueden tener una mayor variabilidad genética debido a los cromosomas adicionales, lo que puede ser útil en programas de selección y mejora genética.</p>
 
 ###
 
@@ -46,6 +46,14 @@
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
 
