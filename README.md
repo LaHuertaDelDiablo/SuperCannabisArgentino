@@ -123,7 +123,7 @@ Las plantas poliploides a menudo tienen características distintivas que las dif
 
 ###
 
-<h2 align="left">Como de muta a poliploide una planta?</h2>
+<h2 align="left">Como se muta a poliploide una planta?</h2>
 
 ###
 
@@ -223,8 +223,6 @@ Esto es evolución
 ###
 
 
-
-
 **Esto es una presentación, necesito apoyo de la comunidad para poder realizarlo, si llegamos a 100 o 200 cultivadores con ganas de participar armo un reel en Instagram con la lista de materiales y podemos hacer el primer vivo explicando la técnica a fines de enero.**
 
 **Pueden confirmar la participación con un comentario en la destacada de Supercannabis Argentino en el Instagram de @lahuertadeldiablo o enviar un dm**
@@ -232,10 +230,18 @@ Esto es evolución
 **Si querés involucrarte más en el proyecto vamos a necesitar mucha ayuda, acá hay una lista de tareas en las que podés participar**
 
 
-Tareas en las que vamos a necesitar colaboracion.
+- [ ] Tareas en las que vamos a necesitar colaboracion.
+- [ ] La ayuda de toda la comunidad canabica para hacer las pruebas A/B con plantas mutadas
+- [ ] Bredders que nos ayudan a probar varias genéticas en paralelo, este trabajo les sirve al mismo tiempo para desarollar sus propias semillas
+- [ ] Abogados que nos asesoren en lo relativo a licencias cc/gnu y distribución de las plantas y semillas en el futuro
+- [ ] Organizadores de copas canabicas para ayudarnos en la selección de fenotipos mutamos.
+- [ ] Científicos / Médicos que quieran ayudar en el desarrollo de los protocolos de aplicación y control de resultados.
+- [ ] Diseñador para un logo y página web del proyecto
+- [ ] Ayuda de ONGs canabicas para la viralización del proyecto
+- [ ] Acceso a un análisis cromosómico para comiseñadoprobaciones finales
 
-- [ ] Legales 
-- [x] A completed task
+
+
 
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
