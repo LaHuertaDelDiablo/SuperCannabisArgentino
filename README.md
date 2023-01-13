@@ -23,6 +23,14 @@
           2. Which is numbered
 ~~~
 
+
+ Markup2 : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
+
+
+
 - [ ] An uncompleted task
 - [x] A completed task
 
