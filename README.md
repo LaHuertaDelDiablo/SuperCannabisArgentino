@@ -26,6 +26,8 @@
 6. Mayor variabilidad genética: ellas tienen una mayor variabilidad genética debido
    a los cromosomas adicionales, lo que puede ser útil en programa
    de selección y mejora genética.
+7. La plantas con cromosomas impares (triploides por ejemplo) son estériles!
+   el macho del vecino no nos puede polinizar.
 ~~~
 
 ###
@@ -89,6 +91,17 @@ El resultado de este proyecto (la genética) va a quedar bajo licencia Creative 
 
 Algo con licencia CC (Creative Commons) es un trabajo creativo, como una imagen, música, video, literatura, (ahora una semilla?), que ha sido liberado bajo una de las varias licencias de Creative Commons. Estas licencias permiten a otros utilizar, compartir y modificar el trabajo de manera legal y gratuita.
 Al mismo tiempo nadie puede registrarlo para sí mismo, es una planta, tiene que ser libre.
+(buscamos abogados que puedan colaborar en este tema)
+
+###
+
+<h2 align="left">Necesito equipo de laboratorio para participar?</h2>
+
+###
+
+NO! Vamos a usar cosas simples, frascos, un gotero, servilletas de papel y un medicamento que se consigue en la farmacia para realizar la mutación.
+
+
 
 
 
