@@ -14,12 +14,15 @@
 
 ###
 ~~~
-1. Tamaño mayor: las plantas poliploides tienden a ser más grandes y más fuertes que las plantas diploides, lo que las hace más resistentes a enfermedades y plagas.
+1. Tamaño mayor: las plantas poliploides tienden a ser más grandes y más fuertes que las plantas diploides, 
+   lo que las hace más resistentes a enfermedades y plagas.
 2. Mayor rendimiento: las plantas poliploides tienden a tener un mayor rendimiento en términos de producción de flores y resina.
 3. Mayor resistencia al estrés: las plantas poliploides tienden a ser más tolerantes a condiciones de estrés ambiental, como sequías o heladas.
-4. Mejor calidad de los produccion: las plantas poliploides a menudo tienen una mejor calidad de flores y semillas, con una mayor resistencia y una mejor apariencia.
+4. Mejor calidad de los produccion: las plantas poliploides a menudo tienen una mejor calidad de flores y semillas,
+   con una mayor resistencia y una mejor apariencia.
 5. Mejor adaptación: las plantas poliploides pueden ser mejor adaptadas a diferentes condiciones ambientales y requerimientos de cultivo.
-6. Mayor variabilidad genética: las plantas poliploides pueden tener una mayor variabilidad genética debido a los cromosomas adicionales, lo que puede ser útil en programas de selección y mejora genética.</p>
+6. Mayor variabilidad genética: las plantas poliploides pueden tener una mayor variabilidad genética debido a los cromosomas adicionales,
+   lo que puede ser útil en programas de selección y mejora genética.</p>
 ~~~
 
 
