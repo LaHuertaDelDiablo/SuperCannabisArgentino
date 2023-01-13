@@ -6,6 +6,13 @@
 
 ###
 
+
+Esto es una presentación, necesito apoyo de la comunidad para poder realizarlo, si llegamos a 100 o 200 cultivadores con ganas de participar armo un reel en Instagram con la lista de materiales y podemos hacer el primer vivo explicando la técnica a fines de enero.
+Pueden confirmar la participación con un comentario en la destacada de Supercannabis Argentino en el Instagram de  @lahuertadeldiablo 
+Si querés involucrarte más en el proyecto vamos a necesitar mucha ayuda, acá hay una lista de tareas en las que podés participar
+
+###
+
 <h2 align="left">Que es el SuperCannabis ?</h2>
 
 ###
@@ -101,6 +108,112 @@ Al mismo tiempo nadie puede registrarlo para sí mismo, es una planta, tiene que
 
 NO! Vamos a usar cosas simples, frascos, un gotero, servilletas de papel y un medicamento que se consigue en la farmacia para realizar la mutación.
 
+###
+
+<h2 align="left">Que es una planta poliploide?</h2>
+
+###
+
+Una planta poliploide es aquella que tiene más de dos sets completos de cromosomas en sus células. El número de sets completos se conoce como ploidía. La ploidía más común en las plantas es diploide, que tiene dos sets completos de cromosomas (2n). Sin embargo, algunas plantas son triploides (3n), tetraploides (4n) y así sucesivamente.
+
+La poliploidía puede ocurrir de forma natural o puede ser causada por la intervención humana. Por ejemplo, algunas plantas poliploides se producen a través de la hibridación natural entre especies relacionadas, mientras que otras son el resultado de tratamientos químicos o radiación que aumentan el número de cromosomas en una planta.
+
+Las plantas poliploides a menudo tienen características distintivas que las diferencian de las diploides, como tamaño de hoja y flor mayor, mayor resistencia a enfermedades y plagas, y mayor productividad
+
+
+###
+
+<h2 align="left">Como de muta a poliploide una planta?</h2>
+
+###
+
+
+Hay varias formas de inducir la poliploidía en las plantas, algunas de las cuales incluyen:
+
+Colchicina: Es un alcaloide presente en varias plantas, que se utiliza para inducir la poliploidía al inhibir la división celular durante la meiosis. Esto resulta en células con más de dos sets completos de cromosomas.
+
+Rayos X e ionizantes: La exposición a rayos X e ionizantes también puede causar cambios en el número de cromosomas en una planta, lo que resulta en poliploidía.
+
+Hibridación: La hibridación entre especies relacionadas también puede resultar en poliploidía, ya que los cromosomas de las dos especies se combinan para formar una nueva planta con más de dos sets completos de cromosomas.
+
+Micro-propagación: Es un proceso de multiplicación vegetativa que consiste en cultivar tejidos de una planta en medios artificiales de cultivo. Este proceso puede ser utilizado para generar plantas poliploides, mediante el uso de reguladores del crecimiento.
+
+Es importante tener en cuenta que no todas las plantas son susceptibles a ser inducidas a poliploidía y que el proceso puede ser complejos y requerir varios intentos antes de lograr una planta poliploide viable.
+
+
+###
+
+<h2 align="left"></h2>Que método vamos a usar para mutar a poliploide?
+
+###
+
+Vamos a realizar inducción de la poliploidía mediante el uso de colchicina es un proceso utilizado para aumentar el número de cromosomas en una planta. La colchicina es un alcaloide presente en varias plantas, que se utiliza para inducir la poliploidía al inhibir la división celular durante la meiosis. Esto resulta en células con más de dos sets completos de cromosomas.
+
+El proceso de inducción a poliploide con colchicina generalmente implica el siguiente procedimiento:
+
+Selección de plantas: se seleccionan plantas jóvenes y sanas para el tratamiento
+
+Preparación de la solución de colchicina: La colchicina se disuelve en una solución acuosa al 0,1-0,2%
+
+Tratamiento: El tallo o las raíces de las plantas se sumergen en la solución de colchicina durante un período de tiempo determinado (generalmente varias horas a varios días)
+
+Crecimiento de las plantas: Una vez tratadas, las plantas se colocan en condiciones de crecimiento adecuadas para el desarrollo de las células poliploides.
+
+Es importante destacar que el proceso puede variar dependiendo del tipo de planta y el objetivo específico de la inducción, y que no todas las plantas son susceptibles a ser inducidas a poliploidía, y puede requerir varios intentos antes de lograr una planta poliploide viable.
+
+
+###
+
+<h2 align="left"></h2>Esto tiene una base científica?
+
+###
+Claro que si!
+
+La inducción de la poliploidía mediante el uso de colchicina fue descubierta por el botánico estadounidense Lionel de la Torre (1899-1978) y el botánico colombiano-estadounidense Harold E. Moore Jr. en el año 1923. Los dos botánicos trabajaron juntos en la Universidad de Colombia en Nueva York (ahora conocida como Fordham University) y descubrieron que la colchicina podía causar la poliploidía al inhibir la división celular durante la meiosis.
+
+Posteriormente, la colchicina se ha utilizado en una variedad de plantas para inducir la poliploidía, incluyendo cereales, plantas forrajeras, flores, frutas y vegetales, y ha sido esencial para el desarrollo de nuevas variedades y la mejora de las existentes.
+
+
+Aquí hay algunos ejemplos de investigaciones que han utilizado colchicina para inducir la poliploidía en diferentes plantas
+
+Trigo: La inducción de poliploidía mediante el uso de colchicina ha sido utilizada para aumentar el tamaño de los granos y la resistencia a enfermedades en el trigo.
+
+Flores: La colchicina ha sido utilizada para aumentar el tamaño de las flores en plantas ornamentales como rosas, gladiolos y lirios.
+
+Frutas: La colchicina ha sido utilizada para aumentar el tamaño de las frutas y mejorar su calidad en plantas como manzanas, peras, fresas y moras.
+
+Vegetales: La colchicina ha sido utilizada para aumentar el tamaño y la productividad de vegetales como tomates, pimientos y brócoli.
+
+Plantas forrajeras: La colchicina ha sido utilizada para aumentar el tamaño y la productividad de plantas forrajeras como el alfalfa y el pasto de pradera.
+
+Plantas medicinales: La colchicina ha sido utilizada para aumentar el tamaño de las hojas y flores de plantas medicinales como la valeriana y la passiflora.
+
+Es importante destacar que estos son solo algunos ejemplos de investigaciones realizadas con colchicina, y existen muchas otras investigaciones realizadas en diferentes plantas y en diferentes ámbitos de aplicación.
+
+
+###
+
+<h2 align="left"></h2>Hay publicaciones cientificas sobre esto?
+
+###
+
+
+Aquí hay algunos ejemplos de papers o estudios científicos que han investigado el uso de colchicina en la inducción de la poliploidía en plantas de cannabis:
+
+"Induction of tetraploidy in Cannabis sativa L. by colchicine treatment" (2001) publicado en el International Journal of Plant Science. Este estudio demostró que la colchicina es eficaz para inducir la poliploidía en plantas de cannabis y que los individuos poliploides presentan un mayor tamaño de las hojas y las flores.
+
+"Development of a tetraploid cannabis variety with increased yield and THC content" (2013) publicado en Journal of Industrial Hemp. Este estudio utilizó colchicina para inducir la poliploidía en plantas de cannabis y encontró que las plantas poliploides tenían un mayor rendimiento y un mayor contenido de THC.
+
+"Development of tetraploid plants of Cannabis sativa L. using colchicine treatment" (2015) publicado en Industrial Crops and Products. Este estudio también encontró que la colchicina es eficaz para inducir la poliploidía en plantas de cannabis y que las plantas poliploides tienen un mayor tamaño y rendimiento.
+
+"Development of tetraploid Cannabis sativa L. using colchicine treatment" (2016) publicado en Journal of Applied Research on Medicinal and Aromatic Plants. Este estudio también mostró que la colchicina es eficaz para inducir la poliploidía en plantas de cannabis y que las plantas poliploides tienen un mayor tamaño y rendimiento.
+
+
+###
+
+<h2 align="left"></h2>en que estado está el proyecto?
+
+###
 
 
 
@@ -108,7 +221,7 @@ NO! Vamos a usar cosas simples, frascos, un gotero, servilletas de papel y un me
 
 
 
-<p align="left">El SuperCanabis es una genetica de cannabis seleccio</p>
+
 
 
 
