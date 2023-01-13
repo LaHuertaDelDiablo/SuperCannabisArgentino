@@ -93,22 +93,10 @@ Algo con licencia CC (Creative Commons) es un trabajo creativo, como una imagen,
 Al mismo tiempo nadie puede registrarlo para sí mismo, es una planta, tiene que ser libre.
 (buscamos abogados que puedan colaborar en este tema)
 
-###
-
-<h2 align="left">Necesito equipo de laboratorio para participar?</h2>
 
 ###
 
-NO! Vamos a usar cosas simples, frascos, un gotero, servilletas de papel y un medicamento que se consigue en la farmacia para realizar la mutación.
-
-###
-
-
-
-
-###
-
-<h2 align="left">Necesito equipo de laboratorio para participar?</h2>
+<h2 align="left">Necesito equipo de laboratorio para mutar la planta?</h2>
 
 ###
 
@@ -155,7 +143,7 @@ Es importante tener en cuenta que no todas las plantas son susceptibles a ser in
 
 ###
 
-<h2 align="left"></h2>Que método vamos a usar para mutar a poliploide?
+<h2 align="left">Que método vamos a usar para mutar a poliploide?</h2>
 
 ###
 
@@ -176,7 +164,7 @@ Es importante destacar que el proceso puede variar dependiendo del tipo de plant
 
 ###
 
-<h2 align="left"></h2>Esto tiene una base científica?
+<h2 align="left">Esto tiene una base científica?</h2>
 
 ###
 Claro que si!
@@ -205,7 +193,7 @@ Es importante destacar que estos son solo algunos ejemplos de investigaciones re
 
 ###
 
-<h2 align="left"></h2>Hay publicaciones cientificas sobre esto?
+<h2 align="left">Hay publicaciones cientificas sobre esto?</h2?
 
 ###
 
@@ -221,9 +209,16 @@ Aquí hay algunos ejemplos de papers o estudios científicos que han investigado
 "Development of tetraploid Cannabis sativa L. using colchicine treatment" (2016) publicado en Journal of Applied Research on Medicinal and Aromatic Plants. Este estudio también mostró que la colchicina es eficaz para inducir la poliploidía en plantas de cannabis y que las plantas poliploides tienen un mayor tamaño y rendimiento.
 
 
+<h2 align="left">Al hacer esto soy como Monsanto?</h2>
+
 ###
 
-<h2 align="left"></h2>en que estado está el proyecto?
+Claro que no! Es más ser como el Profesor Xavier o como Magneto!
+Mutar frutas o flores a poliploide se hace muchos años, las bananas que compramos en el súper son poliploides creadas por el científicos, las originales tienen semillas!
+Cuando comes una frutilla enorme es un poliploide creado por alguien, las naturales son muy chiquitas y llenas de semillas duras.
+Esto es evolución
+
+<h2 align="left">En que estado está el proyecto?</h2>
 
 ###
 
