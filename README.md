@@ -78,8 +78,17 @@ Como comunidad vamos a distribuir clones/semillas de las genéticas seleccionada
 Etapa 3 Selección en forma grupal de la genética ganadora (sería ideal realizarlo en alguna copa de cata) y definirla como genética base para el SuperCannabis Argentino.
 
 
+###
+
+<h2 align="left">Porque va a ser una genética de uso libre y gratuito?</h2>
+
+###
 
 
+El resultado de este proyecto (la genética) va a quedar bajo licencia Creative Commons.
+
+Algo con licencia CC (Creative Commons) es un trabajo creativo, como una imagen, música, video, literatura, (ahora una semilla?), que ha sido liberado bajo una de las varias licencias de Creative Commons. Estas licencias permiten a otros utilizar, compartir y modificar el trabajo de manera legal y gratuita.
+Al mismo tiempo nadie puede registrarlo para sí mismo, es una planta, tiene que ser libre.
 
 
 
