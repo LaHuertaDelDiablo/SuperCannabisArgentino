@@ -29,11 +29,11 @@ de desarrollo grupal por la comunidad canabica Argentina con uso y distribución
 
 
 <h6 size=small align='center'>
-![diploide vs poliploides](imagenes/hemp-compare.jpg
+![diploide vs poliploides](imagenes/hemp-compare.jpg)
 comparacion de cannabis diploide normarl vs polipoide mutada
 
 
-fuente: [Polyploidization for the Genetic Improvement of Cannabis sativa]()
+fuente: [Polyploidization for the Genetic Improvement of Cannabis sativa](papers/Polyploidization for the Genetic Improvement of Cannabis sativa.pdf)
 
 </h6>
 
