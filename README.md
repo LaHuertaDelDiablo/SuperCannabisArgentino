@@ -127,8 +127,11 @@ Las plantas poliploides a menudo tienen características distintivas que las dif
 <h2 align="left">🌱 Hay poyectos comerciales con cannabis poliploide en otros paises?</h2>
 
 
-La compañía Oregon CBD [Oregon CBD](https://oregoncbdseeds.com/triploids/) en USA por ejemplo tiene la mayor producción de plantas triploides de alto CBD del mundo, estas plantas producen el doble de flores que una planta normal, ellos pudieron hacer esa investigacion con 11 personas, nosotros somos cientos, se imaginan el resultado?
+La compañía [Oregon CBD](https://oregoncbdseeds.com/triploids/) en USA por ejemplo tiene la mayor producción de plantas triploides de alto CBD del mundo, estas plantas producen el doble de flores que una planta normal, 
+La compañía [Dark Heart Industries](https://darkheartindustries.com/bioscience/) en 2022 anuncia el primer cannabis polipoide sin semillas del mundo para productores comerciales
+La compañía [Dutch Passion](https://dutch-passion.com/en/blog/the-seedless-triploid-cannabis-genetics-revolution-n1117) esta preparando su genetica poliploide en octubre del 2022
 
+Ellos lo están haciendo las investigaciones en grupos chicos, laboratorios de 3 o 4 personas, en entorno cerrados, dentro de la caja, nosotros somos cientos, cultivamos mejor y tenemos más genéticas, podemos hacer algo mejor y más rápido.
 
 <h2 align="left">🌱 Como se muta a poliploide una planta?</h2>
 
