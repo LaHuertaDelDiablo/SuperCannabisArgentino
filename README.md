@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">🌱 Porque es un proyecto grupal para la comunidad canabica Argentina?</h2>
+<h2 align="left">🤔 Porque es un proyecto grupal para la comunidad canabica Argentina?</h2>
 
 ###
 
@@ -38,7 +38,7 @@ La compañía Oregon CBD en USA por ejemplo tiene la mayor producción de planta
 
 En el repositorio de archivos, pueden acceder a muchos de estos papers universitarios sobre el tema, todos tiene el mismo problema, solo realizan las pruebas sobre 6 o 12 plantas de la misma genética, incluso usan clones de la misma planta madre esperando resultados diferentes.
 
-Nosotros como cultivadores conocemos la variabilidad de genotipos y fenotipos en el cannabis, realizando pruebas de inducción diploide en forma hogareña descubrí que cada genética responde en forma totalmente diferente, la clave es encontrar la que mejor responda y genere una producción multiplicada x 3
+Nosotros como cultivadores conocemos la variabilidad de agenotipos y fenotipos en el cannabis, realizando pruebas de inducción diploide en forma hogareña descubrí que cada genética responde en forma totalmente diferente, la clave es encontrar la que mejor responda y genere una producción multiplicada x 3
 
 La comunidad canabica Argentina en forma grupal, va a replicar un protocolo de laboratorio de inducción poliploide en nuestras casas, siguiendo un procedimiento sencillo podemos amar una base con los resultados entre cientos de genéticas y miles de fenotipos.
 esto va a ser un procedimiento científico llevado adelante por no científicos, pero tenemos una ventaja muy grande con respecto a un experimento controlado en una universidad, nosotros sabemos cultivar, tenemos una cantidad gigante de genéticas tanto locales como importadas, bancos de desarrollo de semillas que pueden colaborar y un mapa con variabilidad climática que nos va a permitir probar las genéticas en muchas condiciones diferentes.
@@ -52,7 +52,7 @@ Vamos a poner a Argentina en el podio de la producción de cannabis de calidad a
 
 ###
 
-<h2 align="left">Como puedo participar?</h2>
+<h2 align="left">🤝 Como puedo participar?</h2>
 
 ###
 
@@ -61,7 +61,7 @@ Vamos a reportar ítems como cantidad de flores, aspecto, medidas, cantidad de r
 
 ###
 
-<h2 align="left">Que vamos a hacer con esa informacion?</h2>
+<h2 align="left">🌱 Que vamos a hacer con esa informacion?</h2>
 
 ###
 
@@ -78,7 +78,7 @@ Etapa 3 Selección en forma grupal de la genética ganadora (sería ideal realiz
 
 ###
 
-<h2 align="left">Porque va a ser una genética de uso libre y gratuito?</h2>
+<h2 align="left">🤔 Porque va a ser una genética de uso libre y gratuito?</h2>
 
 ###
 
@@ -92,7 +92,7 @@ Al mismo tiempo nadie puede registrarlo para sí mismo, es una planta, tiene que
 
 ###
 
-<h2 align="left">Necesito equipo de laboratorio para mutar la planta?</h2>
+<h2 align="left">🤔 Necesito equipo de laboratorio para mutar la planta?</h2>
 
 ###
 
@@ -106,7 +106,7 @@ Tener ganas de cultivar, curiosidad y el Reprocann al día.
 
 ###
 
-<h2 align="left">Que es una planta poliploide?</h2>
+<h2 align="left">🌱 Que es una planta poliploide?</h2>
 
 ###
 
@@ -119,7 +119,7 @@ Las plantas poliploides a menudo tienen características distintivas que las dif
 
 ###
 
-<h2 align="left">Como se muta a poliploide una planta?</h2>
+<h2 align="left">🌱 Como se muta a poliploide una planta?</h2>
 
 ###
 
@@ -139,7 +139,7 @@ Es importante tener en cuenta que no todas las plantas son susceptibles a ser in
 
 ###
 
-<h2 align="left">Que método vamos a usar para mutar a poliploide?</h2>
+<h2 align="left">🌱 Que método vamos a usar para mutar a poliploide?</h2>
 
 ###
 
@@ -160,7 +160,7 @@ Es importante destacar que el proceso puede variar dependiendo del tipo de plant
 
 ###
 
-<h2 align="left">Esto tiene una base científica?</h2>
+<h2 align="left">🤔 Esto tiene una base científica?</h2>
 
 ###
 Claro que si!
@@ -189,7 +189,7 @@ Es importante destacar que estos son solo algunos ejemplos de investigaciones re
 
 ###
 
-<h2 align="left">Hay publicaciones cientificas sobre esto?</h2?
+<h2 align="left">📝 Hay publicaciones cientificas sobre esto?</h2?
 
 ###
 
@@ -205,7 +205,7 @@ Aquí hay algunos ejemplos de papers o estudios científicos que han investigado
 "Development of tetraploid Cannabis sativa L. using colchicine treatment" (2016) publicado en Journal of Applied Research on Medicinal and Aromatic Plants. Este estudio también mostró que la colchicina es eficaz para inducir la poliploidía en plantas de cannabis y que las plantas poliploides tienen un mayor tamaño y rendimiento.
 
 
-<h2 align="left">Al hacer esto soy como Monsanto?</h2>
+<h2 align="left">🤔 Al hacer esto soy como Monsanto?</h2>
 
 ###
 
@@ -214,7 +214,7 @@ Mutar frutas o flores a poliploide se hace muchos años, las bananas que compram
 Cuando comes una frutilla enorme es un poliploide creado por alguien, las naturales son muy chiquitas y llenas de semillas duras.
 Esto es evolución
 
-<h2 align="left">En que estado está el proyecto?</h2>
+<h2 align="left">📝 En que estado está el proyecto?</h2>
 
 ###
 
