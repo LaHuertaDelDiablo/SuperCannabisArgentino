@@ -68,7 +68,7 @@ Vamos a reportar ítems como cantidad de flores, aspecto, medidas, cantidad de r
 El proyecto tiene 3 etapas 
 
 Etapa 1 Búsqueda de la genética correcta:
-Con los datos de las plantas que mutamos, vamos a comparar resultados para seleccionar las genéticas y fenotipos que mejor respondieron produciendo mayor cantidad de flores y resina,
+Con los datos de las plantas que mutamos, vamos a comparar resultados para seleccionar las genéticas y fenotipos que mejor respondieron produciendo mayor cantidad de flores y resina.
 
 Etapa 2 Distribuir las genéticas para pruebas:
 Como comunidad vamos a distribuir clones/semillas de las genéticas seleccionadas para probarlas en diferentes zonas climáticas y condiciones de cultivo, repitiendo el protocolo con una cantidad limitada de genéticas seleccionadas por el nivel de respuesta a la mutación.
@@ -108,12 +108,9 @@ Tener ganas de cultivar, curiosidad y el Reprocann al día.
 
 <h2 align="left">🤔 Cuanto cuesta participar? Se cobra por ver los tutoriales?</h2>
 
-Cuanto cuesta participar? Se cobra por ver los tutoriales?
 NO! Esto tiene que ser todo gratis, es de la comunidad para la comunidad, vamos a poner a Argentina como uno de los  mejores productores de Cannabis en el mundo.
 
 ###
-
-Si se te ocurre como podés ayudar nos avisas!
 
 <h2 align="left">🌱 Que es una planta poliploide?</h2>
 
@@ -130,7 +127,7 @@ Las plantas poliploides a menudo tienen características distintivas que las dif
 <h2 align="left">🌱 Hay poyectos comerciales con cannabis poliploide en otros paises?</h2>
 
 
-La compañía Oregon CBD en USA por ejemplo tiene la mayor producción de plantas triploides de alto CBD del mundo, estas plantas producen el doble de flores que una planta normal, ellos pudieron hacer esa investigacion con 11 personas, nosotros somos cientos, se imaginan el resultado?
+La compañía Oregon CBD [Oregon CBD](https://oregoncbdseeds.com/triploids/) en USA por ejemplo tiene la mayor producción de plantas triploides de alto CBD del mundo, estas plantas producen el doble de flores que una planta normal, ellos pudieron hacer esa investigacion con 11 personas, nosotros somos cientos, se imaginan el resultado?
 
 
 <h2 align="left">🌱 Como se muta a poliploide una planta?</h2>
@@ -240,18 +237,18 @@ Esto es evolución
 **Si querés involucrarte más en el proyecto vamos a necesitar mucha ayuda, acá hay una lista de tareas en las que podés participar**
 
 
-- [ ] Tareas en las que vamos a necesitar colaboracion.
+Tareas en las que vamos a necesitar colaboracion:
+
 - [ ] La ayuda de toda la comunidad canabica para hacer las pruebas A/B con plantas mutadas
 - [ ] Bredders que nos ayudan a probar varias genéticas en paralelo, este trabajo les sirve al mismo tiempo para desarollar sus propias semillas poliploides
-- [ ] Abogados que nos asesoren en lo relativo a licencias cc/gnu y distribución de las plantas y semillas en el futuro
+- [ ] Abogados que nos asesoren en lo relativo a licencias cc/gnu y distribución de las plantas y semillas
 - [ ] Organizadores de copas canabicas para ayudarnos en la selección de fenotipos mutamos
 - [ ] Científicos / Médicos que quieran ayudar en el desarrollo de los protocolos de aplicación y control de resultados
 - [ ] Diseñador para un logo y página web del proyecto
 - [ ] Ayuda de ONGs canabicas para la viralización del proyecto
-- [ ] Acceso a un análisis cromosómico para comiseñadoprobaciones finales
+- [ ] Acceso a un análisis cromosómico para comprobaciones finales
 
+Si se te ocurre otra forma de participar contactanos!
 
-Si se te ocurre como podés ayudar nos contactanos!
-
-💬 dm en Instagram @lahuertadeldiablo
+💬 dm en Instagram @lahuertadeldiabloSi se te ocurre como podés ayudar nos avisas!
 💬 email azrael@lahuertadeldiablo.com
