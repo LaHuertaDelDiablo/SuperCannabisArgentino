@@ -6,7 +6,7 @@
 <h2 align="left">🌱 Que es el SuperCannabis  ?</h2>
 
 ###
-<p align="left">El SuperCanabis es una genetica de cannabis seleccionada por su alta adaptacion a inducion poliploide la cual tiene varias ventajas en comparación con una planta de cannabis comun:</p>
+<p align="left">El SuperCanabis es una genetica de cannabis seleccionada por su alta adaptacion a induccion poliploide la cual tiene varias ventajas en comparación con una planta de cannabis comun:</p>
 
 ###
 ~~~
@@ -34,9 +34,7 @@
 
 La investigación de poliploides comenzó en 1911, el botánico estadounidense Luther Burbank quería mejorar una pera, estos trabajos se siguen realizando hoy en dia en laboratorios de todo el mundo, muchas universidades publican papers con estudios sobre inducción a poliploide en plantas de cannabis obteniendo resultados increíbles.
 
-La compañía Oregon CBD en USA por ejemplo tiene la mayor producción de plantas triploides de alto CBD del mundo, estas plantas producen el doble de flores que una planta normal, ellos pudieron hacer esa investigacion con 11 personas, nosotros somos cientos, se imaginan el resultado?
-
-En el repositorio de archivos, pueden acceder a muchos de estos papers universitarios sobre el tema, todos tiene el mismo problema, solo realizan las pruebas sobre 6 o 12 plantas de la misma genética, incluso usan clones de la misma planta madre esperando resultados diferentes.
+En el repositorio de archivos, pueden acceder a muchos de estos papers universitarios sobre mutar cannabis a poliploide para mejorarla, TODOS TIENEN EL MISMO PROBLEMA, solo realizan las pruebas sobre 6 o 12 plantas de la misma genética, incluso usan clones de la misma planta madre esperando resultados diferentes.
 
 Nosotros como cultivadores conocemos la variabilidad de agenotipos y fenotipos en el cannabis, realizando pruebas de inducción diploide en forma hogareña descubrí que cada genética responde en forma totalmente diferente, la clave es encontrar la que mejor responda y genere una producción multiplicada x 3
 
@@ -127,6 +125,11 @@ Las plantas poliploides a menudo tienen características distintivas que las dif
 
 
 ###
+<h2 align="left">🌱 Hay poyectos comerciales con cannabis poliploide en otros paises?</h2>
+
+
+La compañía Oregon CBD en USA por ejemplo tiene la mayor producción de plantas triploides de alto CBD del mundo, estas plantas producen el doble de flores que una planta normal, ellos pudieron hacer esa investigacion con 11 personas, nosotros somos cientos, se imaginan el resultado?
+
 
 <h2 align="left">🌱 Como se muta a poliploide una planta?</h2>
 
