@@ -2,10 +2,8 @@
 <h1 align="center">Bienvenidos al proyecto de SuperCannabis Argentino</h1>
 <h2><p align="center">Primer genética de cannabis poliploide 
 de desarrollo grupal por la comunidad canabica Argentina con uso y distribución libre</p>
-<p align="center">Hackeando cannabis desde Argentina</p><h2>
-###
+<p align="center">Hackeando cannabis desde Argentina</p></h2>
 
-###
 
 <h2 align="left">🌱 Que es el SuperCannabis el?</h2>
 
