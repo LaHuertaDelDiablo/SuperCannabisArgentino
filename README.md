@@ -150,7 +150,7 @@ Hibridación: La hibridación entre especies relacionadas también puede resulta
 
 Micro-propagación: Es un proceso de multiplicación vegetativa que consiste en cultivar tejidos de una planta en medios artificiales de cultivo. Este proceso puede ser utilizado para generar plantas poliploides, mediante el uso de reguladores del crecimiento.
 
-Es importante tener en cuenta que no todas las plantas son susceptibles a ser inducidas a poliploidía y que el proceso puede ser complejos y requerir varios intentos antes de lograr una planta poliploide viable.
+Es importante tener en cuenta que no todas las plantas son susceptibles a ser inducidas a poliploidía y que el proceso puede requerir varios intentos antes de lograr una planta poliploide viable.
 
 
 ###
@@ -173,7 +173,6 @@ Crecimiento de las plantas: Una vez tratadas, las plantas se colocan en condicio
 
 Es importante destacar que el proceso puede variar dependiendo del tipo de planta y el objetivo específico de la inducción, y que no todas las plantas son susceptibles a ser inducidas a poliploidía, y puede requerir varios intentos antes de lograr una planta poliploide viable.
 
-
 ###
 
 <h2 align="left">🤔 Esto tiene una base científica?</h2>
@@ -185,22 +184,19 @@ La inducción de la poliploidía mediante el uso de colchicina fue descubierta p
 
 Posteriormente, la colchicina se ha utilizado en una variedad de plantas para inducir la poliploidía, incluyendo cereales, plantas forrajeras, flores, frutas y vegetales, y ha sido esencial para el desarrollo de nuevas variedades y la mejora de las existentes.
 
+Algunos ejemplos de plantas poliploides exitosos incluyen:
 
-Aquí hay algunos ejemplos de investigaciones que han utilizado colchicina para inducir la poliploidía en diferentes plantas
+1. El trigo, que es hexaploide (tiene seis copias de cada cromosoma) y es uno de los cultivos más importantes del mundo.
 
-Trigo: La inducción de poliploidía mediante el uso de colchicina ha sido utilizada para aumentar el tamaño de los granos y la resistencia a enfermedades en el trigo.
+2. El algodón, que es octoploide (tiene ocho copias de cada cromosoma) y es uno de los principales cultivos industriales.
 
-Flores: La colchicina ha sido utilizada para aumentar el tamaño de las flores en plantas ornamentales como rosas, gladiolos y lirios.
+3. La patata, que es tetraploide (tiene cuatro copias de cada cromosoma) y es un cultivo alimenticio importante en todo el mundo.
 
-Frutas: La colchicina ha sido utilizada para aumentar el tamaño de las frutas y mejorar su calidad en plantas como manzanas, peras, fresas y moras.
+4. La cebada, que es hexaploide (tiene seis copias de cada cromosoma) y es utilizada para producir cerveza y otros productos.
 
-Vegetales: La colchicina ha sido utilizada para aumentar el tamaño y la productividad de vegetales como tomates, pimientos y brócoli.
+5. El lirio, que es octoploide (tiene ocho copias de cada cromosoma) y es una planta ornamental popular.
 
-Plantas forrajeras: La colchicina ha sido utilizada para aumentar el tamaño y la productividad de plantas forrajeras como el alfalfa y el pasto de pradera.
-
-Plantas medicinales: La colchicina ha sido utilizada para aumentar el tamaño de las hojas y flores de plantas medicinales como la valeriana y la passiflora.
-
-Es importante destacar que estos son solo algunos ejemplos de investigaciones realizadas con colchicina, y existen muchas otras investigaciones realizadas en diferentes plantas y en diferentes ámbitos de aplicación.
+6. En general, las plantas poliploides tienden a ser más grandes y resistentes, y pueden tener mejores rendimientos. Por eso son cultivos importantes en la agricultura moderna.
 
 
 ###
