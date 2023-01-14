@@ -20,9 +20,12 @@ de desarrollo grupal por la comunidad canabica Argentina con uso y distribución
 7. La plantas con cromosomas impares (triploides por ejemplo) son estériles! El macho del vecino no nos puede polinizar.
 
 
-<h6 size=small align='center'>
 ![poliploides](imagenes/diploid-comparation.webp)
+
+<h6 size=small align='center'>
+
 Tamaño de la flor y ramificación de tricomas para plantas de Arabidopsis con dos a ocho conjuntos de cromosomas. Reproducido de la Figura 3AB de Robinson et al., 2018., PlantCell. 
+
 </h6>
 
 
