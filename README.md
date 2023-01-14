@@ -3,10 +3,9 @@
 
 ###
 
-<h2 align="left">Que es el SuperCannabis ?</h2>
+<h2 align="left">🌱 Que es el SuperCannabis  ?</h2>
 
 ###
-
 <p align="left">El SuperCanabis es una genetica de cannabis seleccionada por su alta adaptacion a inducion poliploide la cual tiene varias ventajas en comparación con una planta de cannabis comun:</p>
 
 ###
@@ -29,7 +28,7 @@
 
 ###
 
-<h2 align="left">Porque es un proyecto grupal para la comunidad canabica Argentina?</h2>
+<h2 align="left">🌱 Porque es un proyecto grupal para la comunidad canabica Argentina?</h2>
 
 ###
 
