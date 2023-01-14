@@ -124,12 +124,13 @@ La compañía [Dark Heart Industries](https://darkheartindustries.com/bioscience
 
 La compañía [Dutch Passion](https://dutch-passion.com/en/blog/the-seedless-triploid-cannabis-genetics-revolution-n1117) esta preparando su genetica poliploide en octubre del 2022
 
+Las mutaciones poliploides son el futuro para el desarrollo del cannabis.
+
 Ellos lo están haciendo las investigaciones en grupos chicos, laboratorios de 3 o 4 personas, en entorno cerrados, dentro de la caja, nosotros somos cientos, cultivamos mejor y tenemos más genéticas, podemos hacer algo mejor y más rápido.
 
 <h2 align="left">🌱 Como se muta a poliploide una planta?</h2>
 
 ###
-
 
 Hay varias formas de inducir la poliploidía en las plantas, algunas de las cuales incluyen:
 
