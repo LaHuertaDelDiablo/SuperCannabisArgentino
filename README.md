@@ -1,9 +1,9 @@
 <h1 align="center">Bienvenidos al proyecto de SuperCannabis Argentino</h1>
 <p align="center">Primer genética de cannabis poliploide de desarrollo grupal por la comunidad canabica Argentina con uso y distribución libre</p>
-
+<p align="center">Hackeando cannabis desde Argentina<h2>
 ###
 
-<h2 align="left">🌱 Que es el SuperCannabis  ?</h2>
+<h2 align="left">🌱 Que es el SuperCannabis el?</h2>
 
 ###
 <p align="left">El SuperCanabis es una genetica de cannabis seleccionada por su alta adaptacion a induccion poliploide la cual tiene varias ventajas en comparación con una planta de cannabis comun:</p>
@@ -34,9 +34,9 @@
 
 La investigación de poliploides comenzó en 1911, el botánico estadounidense Luther Burbank quería mejorar una pera, estos trabajos se siguen realizando hoy en dia en laboratorios de todo el mundo, muchas universidades publican papers con estudios sobre inducción a poliploide en plantas de cannabis obteniendo resultados increíbles.
 
-En el repositorio de archivos, pueden acceder a muchos de estos papers universitarios sobre mutar cannabis a poliploide para mejorarla, TODOS TIENEN EL MISMO PROBLEMA, solo realizan las pruebas sobre 6 o 12 plantas de la misma genética, incluso usan clones de la misma planta madre esperando resultados diferentes.
+En el repositorio de archivos, pueden acceder a muchos de estos papers universitarios sobre mutar cannabis a poliploide para mejorarla, les funciona bien pero se puede mejorar, TODOS TIENEN EL MISMO PROBLEMA, solo realizan las pruebas sobre 6 o 12 plantas de la misma genética, incluso usan clones de la misma planta madre esperando resultados diferentes.
 
-Nosotros como cultivadores conocemos la variabilidad de agenotipos y fenotipos en el cannabis, realizando pruebas de inducción diploide en forma hogareña descubrí que cada genética responde en forma totalmente diferente, la clave es encontrar la que mejor responda y genere una producción multiplicada x 3
+Nosotros como cultivadores conocemos la variabilidad de genotipos y fenotipos en el cannabis, realizando pruebas de inducción diploide en forma hogareña descubrímos que cada genética responde en forma totalmente diferente, la clave es encontrar la que mejor responda y genere una producción multiplicada x 3
 
 La comunidad canabica Argentina en forma grupal, va a replicar un protocolo de laboratorio de inducción poliploide en nuestras casas, siguiendo un procedimiento sencillo podemos amar una base con los resultados entre cientos de genéticas y miles de fenotipos.
 esto va a ser un procedimiento científico llevado adelante por no científicos, pero tenemos una ventaja muy grande con respecto a un experimento controlado en una universidad, nosotros sabemos cultivar, tenemos una cantidad gigante de genéticas tanto locales como importadas, bancos de desarrollo de semillas que pueden colaborar y un mapa con variabilidad climática que nos va a permitir probar las genéticas en muchas condiciones diferentes.
