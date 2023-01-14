@@ -23,11 +23,24 @@ de desarrollo grupal por la comunidad canabica Argentina con uso y distribución
 
 <h6 size=small align='center'>
 
+
+
+
+
+
+![diploide vs poliploides](imagenes/diploid-vs-triploid-flower.jpg)
+
+![diploide vs poliploides](imagenes/diploid-vs-triploid.jpg)
+
+![diploide vs poliploides](imagenesplants-vs-plants.jpg)
+
+Cannabis triploide de [Oregon CBD USA](https://oregoncbdseeds.com/triploids/)
+
+
+
+
 ![diploide vs poliploides](imagenes/hemp-compare.jpg)
-
-comparacion de cannabis diploide normarl vs polipoide mutada
-
-fuente: [Polyploidization for the Genetic Improvement of Cannabis sativa](https://github.com/LaHuertaDelDiablo/SuperCannabisArgentino/blob/main/papers/Polyploidization%20for%20the%20Genetic%20Improvement%20of%20Cannabis%20sativa.pdf)
+Comparacion de cannabis diploide normarl vs polipoide mutada fuente: [Polyploidization for the Genetic Improvement of Cannabis sativa](https://github.com/LaHuertaDelDiablo/SuperCannabisArgentino/blob/main/papers/Polyploidization%20for%20the%20Genetic%20Improvement%20of%20Cannabis%20sativa.pdf)
 
 </h6>
 
