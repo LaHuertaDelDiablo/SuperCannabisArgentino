@@ -248,8 +248,5 @@ Esto es evolución
 
 Si se te ocurre como podés ayudar nos contactanos!
 
-<h1 align="left">💬 dm en Instagram @lahuertadeldiablo</h1>
-
-<h1 align="left">💬 email azrael@lahuertadeldiablo.com</h1>
-
-
+💬 dm en Instagram @lahuertadeldiablo
+💬 email azrael@lahuertadeldiablo.com
