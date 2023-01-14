@@ -5,6 +5,8 @@ de desarrollo grupal por la comunidad canabica Argentina con uso y distribución
 <p align="center">Hackeando cannabis desde Argentina</p><h2>
 ###
 
+###
+
 <h2 align="left">🌱 Que es el SuperCannabis el?</h2>
 
 ###
@@ -46,7 +48,7 @@ esto va a ser un procedimiento científico llevado adelante por no científicos,
 Además contamos con el apoyo del programa Reprocann lo cual nos permite realizarlo en un entorno legal.
 
 <b> <i>
-Somos una comunidad nueva y en desarrollo, con un potencial increíble, Argentina tiene que estar ubicada número UNO en cualquier actividad relacionada al agro, si intercambiamos conocimiento y trabajamos vamos a obtener resultados extraordinarios.
+Somos una comunidad nueva y en desarrollo, con un potencial increíble, Argentina tiene que estar ubicada número UNO en cualquier actividad relacionada al agro, si intercambiamos conocimiento y trabajamos juntos vamos a obtener resultados extraordinarios.
 Vamos a poner a Argentina en el podio de la producción de cannabis de calidad a nivel mundial.
 </b>  </i>
 
@@ -56,7 +58,7 @@ Vamos a poner a Argentina en el podio de la producción de cannabis de calidad a
 
 ###
 
-Es muy fácil, tenemos que cultivar 2 plantas de la misma genética, la que más nos guste, una la vamos a mutar a poliploide siguiendo un video instructivo, la otra va a quedar normal, durante el ciclo de cultivo tenemos que controlar los cambios entre la mutada (poliploide) y la normal y reportarlos en un formulario para que armemos una base de datos con los resultados de todas las genéticas.
+Es muy fácil, tenes que cultivar 2 plantas de la misma genética, la que más te guste, una la vas a mutar a poliploide siguiendo un video instructivo, la otra va a quedar normal, durante el ciclo de cultivo tenemos que controlar los cambios entre la planta mutada (poliploide) y la normal y reportarlos en un formulario mensualmente para que armemos una base de datos con los resultados de todas las genéticas.
 Vamos a reportar ítems como cantidad de flores, aspecto, medidas, cantidad de resina, cambios en los terpenos, resistencia a plagas y hongos, también va a incluir fotos de las plantas para poder compararlas.
 
 ###
