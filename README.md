@@ -248,5 +248,6 @@ Tareas en las que vamos a necesitar colaboracion:
 
 Si se te ocurre otra forma de participar contactanos!
 
-💬 dm en Instagram @lahuertadeldiabloSi se te ocurre como podés ayudar nos avisas!
+💬 dm en Instagram [@lahuertadeldiablo](https://www.instagram.com/lahuertadeldiablo/)
+
 💬 email azrael@lahuertadeldiablo.com
