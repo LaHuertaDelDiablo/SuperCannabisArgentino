@@ -19,6 +19,15 @@ de desarrollo grupal por la comunidad canabica Argentina con uso y distribución
 6. Mayor variabilidad genética: ellas tienen una mayor variabilidad genética debido a los cromosomas adicionales, lo que puede ser útil en programa de selección y mejora genética.
 7. La plantas con cromosomas impares (triploides por ejemplo) son estériles! El macho del vecino no nos puede polinizar.
 
+
+<h0 align='center'>
+
+![poliploides](imagenes/diploid-comparation.webp)
+Tamaño de la flor y ramificación de tricomas para plantas de Arabidopsis con dos a ocho conjuntos de cromosomas. Reproducido de la Figura 3AB de Robinson et al., 2018., PlantCell. 
+</h0>
+
+
+
 ###
 
 <h2 align="left">🤔 Porque es un proyecto grupal para la comunidad canabica Argentina?</h2>
