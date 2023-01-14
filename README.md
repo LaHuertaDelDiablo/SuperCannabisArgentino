@@ -11,7 +11,6 @@ de desarrollo grupal por la comunidad canabica Argentina con uso y distribución
 <p align="left">El SuperCanabis es una genetica de cannabis seleccionada por su alta adaptacion a induccion poliploide la cual tiene varias ventajas en comparación con una planta de cannabis comun:</p>
 
 ###
-~~~
 1. Las plantas poliploides tienden a ser más grandes y más fuertes que las plantas diploides, 
    lo que las hace más resistentes a enfermedades y plagas.
 2. Tienden a tener un mayor rendimiento en términos de producción de flores y resina.
@@ -26,7 +25,6 @@ de desarrollo grupal por la comunidad canabica Argentina con uso y distribución
    de selección y mejora genética.
 7. La plantas con cromosomas impares (triploides por ejemplo) son estériles!
    el macho del vecino no nos puede polinizar.
-~~~
 
 ###
 
@@ -196,7 +194,7 @@ Algunos ejemplos de plantas poliploides exitosos incluyen:
 
 5. El lirio, que es octoploide (tiene ocho copias de cada cromosoma) y es una planta ornamental popular.
 
-6. En general, las plantas poliploides tienden a ser más grandes y resistentes, y pueden tener mejores rendimientos. Por eso son cultivos importantes en la agricultura moderna.
+En general, las plantas poliploides tienden a ser más grandes y resistentes, y pueden tener mejores rendimientos. Por eso son cultivos importantes en la agricultura moderna.
 
 
 ###
