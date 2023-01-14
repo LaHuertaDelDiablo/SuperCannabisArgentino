@@ -61,7 +61,7 @@ Vamos a reportar ítems como cantidad de flores, aspecto, medidas, cantidad de r
 
 ###
 
-<h2 align="left">🌱 Que vamos a hacer con esa informacion?</h2>
+<h2 align="left">🎯 Que vamos a hacer con esa informacion?</h2>
 
 ###
 
@@ -100,11 +100,20 @@ NO! Vamos a usar cosas simples, frascos, un gotero, servilletas de papel y un me
 
 ###
 
-<h2 align="left">Hay algún requerimiento para participar?</h2>
+<h2 align="left">🤔 Hay algún requerimiento para participar?</h2>
 
 Tener ganas de cultivar, curiosidad y el Reprocann al día.
 
 ###
+
+<h2 align="left">🤔 Cuanto cuesta participar? Se cobra por ver los tutoriales?</h2>
+
+Cuanto cuesta participar? Se cobra por ver los tutoriales?
+NO! Esto tiene que ser todo gratis, es de la comunidad para la comunidad, vamos a poner a Argentina como uno de los  mejores productores de Cannabis en el mundo.
+
+###
+
+Si se te ocurre como podés ayudar nos avisas!
 
 <h2 align="left">🌱 Que es una planta poliploide?</h2>
 
@@ -237,72 +246,10 @@ Esto es evolución
 - [ ] Acceso a un análisis cromosómico para comiseñadoprobaciones finales
 
 
+Si se te ocurre como podés ayudar nos contactanos!
+
+<h2 align="left">💬 dm en Instagram @lahuertadeldiablo</h2>
+
+<h2 align="left">💬 email azrael@lahuertadeldiablo.com</h2>
 
 
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
