@@ -52,7 +52,7 @@ La investigación de poliploides comenzó en 1911, el botánico estadounidense L
 
 En el repositorio de archivos, pueden acceder a muchos de estos papers universitarios sobre mutar cannabis a poliploide para mejorarla, les funciona bien pero se puede mejorar, TODOS TIENEN EL MISMO PROBLEMA, solo realizan las pruebas sobre 6 o 12 plantas de la misma genética, incluso usan clones de la misma planta madre esperando resultados diferentes.
 
-Nosotros como cultivadores conocemos la variabilidad de genotipos y fenotipos en el cannabis, realizando pruebas de inducción diploide en forma hogareña descubrímos que cada genética responde en forma totalmente diferente, la clave es encontrar la que mejor responda y genere una producción multiplicada x 3
+Nosotros, como cultivadores, conocemos la variabilidad de genotipos y fenotipos en el cannabis, realizando pruebas de inducción diploide en forma hogareña descubrímos que cada genética responde en forma totalmente diferente, la clave es encontrar la que mejor responda y genere una producción multiplicada x 3
 
 La comunidad canabica Argentina en forma grupal, va a replicar un protocolo de laboratorio de inducción poliploide en nuestras casas, siguiendo un procedimiento sencillo podemos amar una base con los resultados entre cientos de genéticas y miles de fenotipos.
 esto va a ser un procedimiento científico llevado adelante por no científicos, pero tenemos una ventaja muy grande con respecto a un experimento controlado en una universidad, nosotros sabemos cultivar, tenemos una cantidad gigante de genéticas tanto locales como importadas, bancos de desarrollo de semillas que pueden colaborar y un mapa con variabilidad climática que nos va a permitir probar las genéticas en muchas condiciones diferentes.
