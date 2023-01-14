@@ -128,7 +128,9 @@ Las plantas poliploides a menudo tienen características distintivas que las dif
 
 
 La compañía [Oregon CBD](https://oregoncbdseeds.com/triploids/) en USA por ejemplo tiene la mayor producción de plantas triploides de alto CBD del mundo, estas plantas producen el doble de flores que una planta normal, 
+
 La compañía [Dark Heart Industries](https://darkheartindustries.com/bioscience/) en 2022 anuncia el primer cannabis polipoide sin semillas del mundo para productores comerciales
+
 La compañía [Dutch Passion](https://dutch-passion.com/en/blog/the-seedless-triploid-cannabis-genetics-revolution-n1117) esta preparando su genetica poliploide en octubre del 2022
 
 Ellos lo están haciendo las investigaciones en grupos chicos, laboratorios de 3 o 4 personas, en entorno cerrados, dentro de la caja, nosotros somos cientos, cultivamos mejor y tenemos más genéticas, podemos hacer algo mejor y más rápido.
@@ -224,8 +226,11 @@ Aquí hay algunos ejemplos de papers o estudios científicos que han investigado
 ###
 
 Claro que no! Es más ser como el Profesor Xavier o como Magneto!
+
 Mutar frutas o flores a poliploide se hace muchos años, las bananas que compramos en el súper son poliploides creadas por el científicos, las originales tienen semillas!
+
 Cuando comes una frutilla enorme es un poliploide creado por alguien, las naturales son muy chiquitas y llenas de semillas duras.
+
 Esto es evolución
 
 <h2 align="left">📝 En que estado está el proyecto?</h2>
