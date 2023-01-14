@@ -28,7 +28,7 @@ de desarrollo grupal por la comunidad canabica Argentina con uso y distribución
 comparacion de cannabis diploide normarl vs polipoide mutada
 
 
-fuente: [Polyploidization for the Genetic Improvement of Cannabis sativa](papers/Polyploidization for the Genetic Improvement of Cannabis sativa.pdf)
+fuente: [Polyploidization for the Genetic Improvement of Cannabis sativa](https://github.com/LaHuertaDelDiablo/SuperCannabisArgentino/blob/main/papers/Polyploidization%20for%20the%20Genetic%20Improvement%20of%20Cannabis%20sativa.pdf)
 
 </h6>
 
