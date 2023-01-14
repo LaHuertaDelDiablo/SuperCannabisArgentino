@@ -189,15 +189,24 @@ Es importante tener en cuenta que no todas las plantas son susceptibles a ser in
 
 Vamos a realizar inducción de la poliploidía mediante el uso de colchicina es un proceso utilizado para aumentar el número de cromosomas en una planta. La colchicina es un alcaloide presente en varias plantas, que se utiliza para inducir la poliploidía al inhibir la división celular durante la meiosis. Esto resulta en células con más de dos sets completos de cromosomas.
 
+
+En la primera etapa elegimos usar colchicina  es un medicamento utilizado para el tratamiento de la enfermedad de gota que se puede comprar en la farmacia, es fácil de conseguir en Argentina y el riesgo al manipularlo es bajo
+
+
 El proceso de inducción a poliploide con colchicina generalmente implica el siguiente procedimiento:
+
 
 Selección de plantas: se seleccionan plantas jóvenes y sanas para el tratamiento
 
+
 Preparación de la solución de colchicina: La colchicina se disuelve en una solución acuosa al 0,1-0,2%
+
 
 Tratamiento: El tallo o las raíces de las plantas se sumergen en la solución de colchicina durante un período de tiempo determinado (generalmente varias horas a varios días)
 
+
 Crecimiento de las plantas: Una vez tratadas, las plantas se colocan en condiciones de crecimiento adecuadas para el desarrollo de las células poliploides.
+
 
 Es importante destacar que el proceso puede variar dependiendo del tipo de planta y el objetivo específico de la inducción, y que no todas las plantas son susceptibles a ser inducidas a poliploidía, y puede requerir varios intentos antes de lograr una planta poliploide viable.
 
