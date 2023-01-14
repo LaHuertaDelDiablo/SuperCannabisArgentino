@@ -5,26 +5,19 @@ de desarrollo grupal por la comunidad canabica Argentina con uso y distribución
 <p align="center">Hackeando cannabis desde Argentina</p></h2>
 
 
-<h2 align="left">🌱 Que es el SuperCannabis el?</h2>
+<h2 align="left">🌱 Que es el SuperCannabis Argentino?</h2>
 
 ###
 <p align="left">El SuperCanabis es una genetica de cannabis seleccionada por su alta adaptacion a induccion poliploide la cual tiene varias ventajas en comparación con una planta de cannabis comun:</p>
 
 ###
-1. Las plantas poliploides tienden a ser más grandes y más fuertes que las plantas diploides, 
-   lo que las hace más resistentes a enfermedades y plagas.
+1. Las plantas poliploides tienden a ser más grandes y más fuertes que las plantas diploides, lo que las hace más resistentes a enfermedades y plagas.
 2. Tienden a tener un mayor rendimiento en términos de producción de flores y resina.
-3. Las plantas poliploides tienden a ser más tolerantes a condiciones de estrés ambiental, 
-   como sequías o heladas.
-4. Mejor calidad de produccion tienen una mejor calidad de flores y semillas,
-   con mayor volumen y una mejor apariencia.
-5. Mejor adaptación, las plantas poliploides se adaptan mejor a diferentes condiciones ambientales 
-   y requerimientos de cultivo.
-6. Mayor variabilidad genética: ellas tienen una mayor variabilidad genética debido
-   a los cromosomas adicionales, lo que puede ser útil en programa
-   de selección y mejora genética.
-7. La plantas con cromosomas impares (triploides por ejemplo) son estériles!
-   el macho del vecino no nos puede polinizar.
+3. Las plantas poliploides tienden a ser más tolerantes a condiciones de estrés ambiental, como sequías o heladas.
+4. Mejor calidad de produccion tienen una mejor calidad de flores y semillas, con mayor volumen y una mejor apariencia.
+5. Mejor adaptación, las plantas poliploides se adaptan mejor a diferentes condiciones ambientales y requerimientos de cultivo.
+6. Mayor variabilidad genética: ellas tienen una mayor variabilidad genética debido a los cromosomas adicionales, lo que puede ser útil en programa de selección y mejora genética.
+7. La plantas con cromosomas impares (triploides por ejemplo) son estériles! El macho del vecino no nos puede polinizar.
 
 ###
 
