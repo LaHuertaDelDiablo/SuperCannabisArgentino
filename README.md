@@ -70,7 +70,7 @@ Vamos a poner a Argentina en el podio de la producción de cannabis de calidad a
 
 ###
 
-Es muy fácil, tenes que cultivar 2 plantas de la misma genética, la que más te guste, una la vas a mutar a poliploide siguiendo un video instructivo, la otra va a quedar normal, durante el ciclo de cultivo tenemos que controlar los cambios entre la planta mutada (poliploide) y la normal y reportarlos en un formulario mensualmente para que armemos una base de datos con los resultados de todas las genéticas.
+Es muy fácil, tenes que cultivar 2 plantas de la misma genética, la que más te guste, una la vas a mutar a poliploide siguiendo un video instructivo, la otra va a quedar normal, durante el ciclo de cultivo tenemos que controlar los cambios entre la planta mutada (poliploide) y la normal para reportarlos en un formulario mensualmente con el cual vamos a armar una base de datos con los resultados de todas las genéticas.
 Vamos a reportar ítems como cantidad de flores, aspecto, medidas, cantidad de resina, cambios en los terpenos, resistencia a plagas y hongos, también va a incluir fotos de las plantas para poder compararlas.
 
 ###
@@ -85,7 +85,7 @@ Etapa 1 Búsqueda de la genética correcta:
 Con los datos de las plantas que mutamos, vamos a comparar resultados para seleccionar las genéticas y fenotipos que mejor respondieron produciendo mayor cantidad de flores y resina.
 
 Etapa 2 Distribuir las genéticas para pruebas:
-Como comunidad vamos a distribuir clones/semillas de las genéticas seleccionadas para probarlas en diferentes zonas climáticas y condiciones de cultivo, repitiendo el protocolo con una cantidad limitada de genéticas seleccionadas por el nivel de respuesta a la mutación.
+Como comunidad vamos a distribuir clones/semillas de las genéticas seleccionadas para volver a mutarlas en diferentes zonas climáticas y condiciones de cultivo, repitiendo el protocolo con una cantidad limitada de genéticas seleccionadas por el nivel de respuesta a la mutación.
 
 Etapa 3 Selección en forma grupal de la genética ganadora (sería ideal realizarlo en alguna copa de cata) y definirla como genética base para el SuperCannabis Argentino.
 
@@ -157,13 +157,26 @@ Ellos lo están haciendo las investigaciones en grupos chicos, laboratorios de 3
 
 Hay varias formas de inducir la poliploidía en las plantas, algunas de las cuales incluyen:
 
-Colchicina: Es un alcaloide presente en varias plantas, que se utiliza para inducir la poliploidía al inhibir la división celular durante la meiosis. Esto resulta en células con más de dos sets completos de cromosomas.
 
-Rayos X e ionizantes: La exposición a rayos X e ionizantes también puede causar cambios en el número de cromosomas en una planta, lo que resulta en poliploidía.
+Oryzalin es un herbicida que se utiliza para inhibir la división celular durante la meiosis, lo que resulta en la formación de células poliploides. Esta técnica se ha utilizado principalmente en plantas cultivadas, como cereales, para aumentar el tamaño y la resistencia de las plantas. Sin embargo, también se utiliza en investigación para estudiar el efecto de la poliploidía en la biología de las plantas.
 
-Hibridación: La hibridación entre especies relacionadas también puede resultar en poliploidía, ya que los cromosomas de las dos especies se combinan para formar una nueva planta con más de dos sets completos de cromosomas.
+Colchicina es un alcaloide presente en varias plantas, que se utiliza para inducir la poliploidía al inhibir la división celular durante la meiosis. Esto resulta en células con más de dos sets completos de cromosomas.
 
-Micro-propagación: Es un proceso de multiplicación vegetativa que consiste en cultivar tejidos de una planta en medios artificiales de cultivo. Este proceso puede ser utilizado para generar plantas poliploides, mediante el uso de reguladores del crecimiento.
+Trisporic acid es un compuesto de azufre que se utiliza para la inducción de poliploidía en plantas.
+
+Mitomicina C es un agente quimioterapéutico que se utiliza para la inducción de poliploidía en plantas.
+
+Cloruro de colina es un compuesto orgánico que se utiliza para la inducción de poliploidía en plantas.
+
+Nitrosoureas son una clase de compuestos químicos que se utilizan para la inducción de poliploidía en plantas.
+
+Benomil es un fungicida que tambien se ha utilizado para la inducción de poliploidía.
+
+Rayos X e ionizantes, la exposición a rayos X e ionizantes también puede causar cambios en el número de cromosomas en una planta, lo que resulta en poliploidía.
+
+Hibridación entre especies relacionadas también puede resultar en poliploidía, ya que los cromosomas de las dos especies se combinan para formar una nueva planta con más de dos sets completos de cromosomas.
+
+Micro-propagación Es un proceso de multiplicación vegetativa que consiste en cultivar tejidos de una planta en medios artificiales de cultivo. Este proceso puede ser utilizado para generar plantas poliploides, mediante el uso de reguladores del crecimiento.
 
 Es importante tener en cuenta que no todas las plantas son susceptibles a ser inducidas a poliploidía y que el proceso puede requerir varios intentos antes de lograr una planta poliploide viable.
 
