@@ -21,15 +21,10 @@ de desarrollo grupal por la comunidad canabica Argentina con uso y distribución
 
 
 
-![poliploides](imagenes/diploid-comparation.webp)
-
-
-
-
-
-
 <h6 size=small align='center'>
+
 ![diploide vs poliploides](imagenes/hemp-compare.jpg)
+
 comparacion de cannabis diploide normarl vs polipoide mutada
 
 
