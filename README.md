@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenidos al proyecto de SuperCannabis Argentino 👋</h1>
+<h1 align="center">Bienvenidos al proyecto de SuperCannabis Argentino</h1>
 <p align="center">Primer genética de cannabis poliploide de desarrollo grupal por la comunidad canabica Argentina con uso y distribución libre</p>
 
 ###
