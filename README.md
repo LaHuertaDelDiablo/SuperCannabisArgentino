@@ -24,19 +24,15 @@ de desarrollo grupal por la comunidad canabica Argentina con uso y distribución
 <h6 size=small align='center'>
 
 
-
-
-
-
 ![diploide vs poliploides](imagenes/diploid-vs-triploid-flower.jpg)
 
 ![diploide vs poliploides](imagenes/diploid-vs-triploid.jpg)
 
 ![diploide vs poliploides](imagenesplants-vs-plants.jpg)
 
-Cannabis triploide de [Oregon CBD USA](https://oregoncbdseeds.com/triploids/)
+Ejemplos de Cannabis triploide fuente: [Oregon CBD USA](https://oregoncbdseeds.com/triploids/)
 
-
+<br>
 
 
 ![diploide vs poliploides](imagenes/hemp-compare.jpg)
