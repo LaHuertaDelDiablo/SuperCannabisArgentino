@@ -11,11 +11,11 @@ de desarrollo grupal por la comunidad canabica Argentina con uso y distribución
 <p align="left">El SuperCanabis es una genetica de cannabis seleccionada por su alta adaptacion a induccion poliploide la cual tiene varias ventajas en comparación con una planta de cannabis comun:</p>
 
 
-La diferencia entre las plantas de cannabis diploides y las polipoides se refiere a la cantidad de cromosomas que tienen. Una planta diploide tiene dos conjuntos completos de cromosomas (2n), el cannabis en la naturaleza es diploide, mientras que una planta polipoide tiene más de dos conjuntos (n+n) de cromosomas. Esto puede ocurrir debido a una mutación o a un cruce entre diferentes variedades de cannabis (algo poco normal). Las plantas polipoides tienen características diferentes a las plantas diploides, como un mayor contenido de THC, mayor tamaño y aumento el ratio de flores vs hojas.
+La diferencia entre las plantas de cannabis diploides y las polipoides se refiere a la cantidad de cromosomas que tienen. Una planta diploide tiene dos conjuntos completos de cromosomas (2n), el cannabis en la naturaleza es diploide, mientras que una planta polipoide tiene más de dos conjuntos (n+n) de cromosomas. Esto puede ocurrir debido a una mutación o a un cruce entre diferentes variedades de cannabis (algo poco normal). Las plantas polipoides tienen características diferentes a las plantas diploides, cómo un mayor contenido de THC, mayor tamaño y aumento el ratio de flores vs hojas.
 ###
 1. Las plantas poliploides tienden a ser más grandes y más fuertes que las plantas diploides, lo que las hace más resistentes a enfermedades y plagas.
 2. Tienden a tener un mayor rendimiento en términos de producción de flores y resina.
-3. Las plantas poliploides tienden a ser más tolerantes a condiciones de estrés ambiental, como sequías o heladas.
+3. Las plantas poliploides tienden a ser más tolerantes a condiciones de estrés ambiental, cómo sequías o heladas.
 4. Mejor calidad de produccion tienen una mejor calidad de flores y semillas, con mayor volumen y una mejor apariencia.
 5. Mejor adaptación, las plantas poliploides se adaptan mejor a diferentes condiciones ambientales y requerimientos de cultivo.
 6. Mayor variabilidad genética: ellas tienen una mayor variabilidad genética debido a los cromosomas adicionales, lo que puede ser útil en programa de selección y mejora genética.
@@ -54,10 +54,10 @@ La investigación de poliploides comenzó en 1911, el botánico estadounidense L
 
 En el repositorio de archivos, pueden acceder a muchos de estos papers universitarios sobre mutar cannabis a poliploide para mejorarla, les funciona bien pero se puede mejorar, TODOS TIENEN EL MISMO PROBLEMA, solo realizan las pruebas sobre 6 o 12 plantas de la misma genética, incluso usan clones de la misma planta madre esperando resultados diferentes.
 
-Nosotros, como cultivadores, conocemos la variabilidad de genotipos y fenotipos en el cannabis, realizando pruebas de inducción diploide en forma hogareña descubrímos que cada genética responde en forma totalmente diferente, la clave es encontrar la que mejor responda y genere una producción multiplicada x 3
+Nosotros, cómo cultivadores, conocemos la variabilidad de genotipos y fenotipos en el cannabis, realizando pruebas de inducción diploide en forma hogareña descubrímos que cada genética responde en forma totalmente diferente, la clave es encontrar la que mejor responda y genere una producción multiplicada x 3
 
 La comunidad canabica Argentina en forma grupal, va a replicar un protocolo de laboratorio de inducción poliploide en nuestras casas, siguiendo un procedimiento sencillo podemos amar una base con los resultados entre cientos de genéticas y miles de fenotipos.
-esto va a ser un procedimiento científico llevado adelante por no científicos, pero tenemos una ventaja muy grande con respecto a un experimento controlado en una universidad, nosotros sabemos cultivar, tenemos una cantidad gigante de genéticas tanto locales como importadas, bancos de desarrollo de semillas que pueden colaborar y un mapa con variabilidad climática que nos va a permitir probar las genéticas en muchas condiciones diferentes.
+esto va a ser un procedimiento científico llevado adelante por no científicos, pero tenemos una ventaja muy grande con respecto a un experimento controlado en una universidad, nosotros sabemos cultivar, tenemos una cantidad gigante de genéticas tanto locales cómo importadas, bancos de desarrollo de semillas que pueden colaborar y un mapa con variabilidad climática que nos va a permitir probar las genéticas en muchas condiciones diferentes.
 
 Además contamos con el apoyo del programa Reprocann lo cual nos permite realizarlo en un entorno legal.
 
@@ -68,7 +68,7 @@ Vamos a poner a Argentina en el podio de la producción de cannabis de calidad a
 
 ###
 
-<h2 align="left">🤝 Como puedo participar?</h2>
+<h2 align="left">🤝 cómo puedo participar?</h2>
 
 ###
 Es muy fácil!
@@ -77,7 +77,7 @@ Tenés que cultivar 2 plantas de la misma genética, la que más te guste, una l
 
 Con esta información vamos a armar una base de datos pública con los resultados de todos los cultivadores y realizar comparativas que nos permitan seleccionar las genéticas que mejor se adaptaron a la mutación y pasar a  la segunda etapa de selección.
 
-Vamos a reportar ítems como cantidad de flores, aspecto, medidas, cantidad de resina, cambios en los terpenos, resistencia a plagas y hongos, también va a incluir fotos de las plantas para poder compararlas. 
+Vamos a reportar ítems cómo cantidad de flores, aspecto, medidas, cantidad de resina, cambios en los terpenos, resistencia a plagas y hongos, también va a incluir fotos de las plantas para poder compararlas. 
 
 En el video instructivo vamos a mutar 3 plantas:
 
@@ -104,13 +104,13 @@ El proyecto tiene 3 etapas
    Con los datos de las plantas que mutamos, vamos a comparar resultados para seleccionar las genéticas y fenotipos que mejor respondieron a la mutación produciendo mayor cantidad de flores y resina.
 
 2. Etapa:  Distribuir las genéticas seleccionadas para confirmación.
-   Como comunidad vamos a distribuir clones/semillas de las genéticas seleccionadas para volver a mutarlas en diferentes zonas climáticas y condiciones de cultivo, repitiendo el protocolo con una cantidad limitada de genéticas seleccionadas por un alto nivel de respuesta a la mutación.
+   cómo comunidad vamos a distribuir clones/semillas de las genéticas seleccionadas para volver a mutarlas en diferentes zonas climáticas y condiciones de cultivo, repitiendo el protocolo con una cantidad limitada de genéticas seleccionadas por un alto nivel de respuesta a la mutación.
 
 3. Etapa: Selección en forma grupal de la genética ganadora. 
-   Sería ideal realizarlo en alguna copa de cata) y definirla como genética base para el SuperCannabis Argentino. Tendríamos que determinar entre cuantas de las genéticas que mejor respondieron para seleccionar a la ganadora y definir el resto para hacer variaciones del supercannabis principal.
+   Sería ideal realizarlo en alguna copa de cata) y definirla cómo genética base para el SuperCannabis Argentino. Tendríamos que determinar entre cuantas de las genéticas que mejor respondieron para seleccionar a la ganadora y definir el resto para hacer variaciones del supercannabis principal.
 
 
-Desde este punto la posibilidad de crecimiento es infinita, tendríamos una base de superproduccion tanto para desarrollar el cultivo medicinal personal como para la industria, con técnicas de cultivo avanzadas como enjaulado se pueden obtener producciones de 3 kilos de flores secas por planta, en caso de ser plantas poliploides se podría sobrepasar los 5 kilos de producción seca por planta en el entorno correcto.
+Desde este punto la posibilidad de crecimiento es infinita, tendríamos una base de superproduccion tanto para desarrollar el cultivo medicinal personal cómo para la industria, con técnicas de cultivo avanzadas cómo enjaulado se pueden obtener producciones de 3 kilos de flores secas por planta, en caso de ser plantas poliploides se podría sobrepasar los 5 kilos de producción seca por planta en el entorno correcto.
 
 
 ###
@@ -122,7 +122,7 @@ Desde este punto la posibilidad de crecimiento es infinita, tendríamos una base
 
 El resultado de este proyecto (la genética) va a quedar bajo licencia Creative Commons.
 
-Algo con licencia CC (Creative Commons) es un trabajo creativo, como una imagen, música, video, literatura, (ahora una semilla?), que ha sido liberado bajo una de las varias licencias de Creative Commons. Estas licencias permiten a otros utilizar, compartir y modificar el trabajo de manera legal y gratuita.
+Algo con licencia CC (Creative Commons) es un trabajo creativo, cómo una imagen, música, video, literatura, (ahora una semilla?), que ha sido liberado bajo una de las varias licencias de Creative Commons. Estas licencias permiten a otros utilizar, compartir y modificar el trabajo de manera legal y gratuita.
 Al mismo tiempo nadie puede registrarlo para sí mismo, es una planta, tiene que ser libre.
 (buscamos abogados que puedan colaborar en este tema)
 
@@ -145,7 +145,7 @@ Tener ganas de cultivar, curiosidad y el Reprocann al día.
 
 <h2 align="left">🤔 Cuanto cuesta participar? Se cobra por ver los tutoriales?</h2>
 
-NO! Esto tiene que ser todo gratis, es de la comunidad para la comunidad, vamos a poner a Argentina como uno de los  mejores productores de Cannabis en el mundo.
+NO! Esto tiene que ser todo gratis, es de la comunidad para la comunidad, vamos a poner a Argentina cómo uno de los  mejores productores de Cannabis en el mundo.
 
 ###
 
@@ -177,22 +177,22 @@ Vamos a hacer el mismo trabajo que ellos con una selección de fenotipos y condi
 
 ###
 
-Una planta poliploide es aquella que tiene más de dos sets completos de cromosomas en sus células. El número de sets completos se conoce como ploidía. La ploidía más común en las plantas es diploide, que tiene dos sets completos de cromosomas (2n). Sin embargo, algunas plantas son triploides (3n), tetraploides (4n) y así sucesivamente.
+Una planta poliploide es aquella que tiene más de dos sets completos de cromosomas en sus células. El número de sets completos se conoce cómo ploidía. La ploidía más común en las plantas es diploide, que tiene dos sets completos de cromosomas (2n). Sin embargo, algunas plantas son triploides (3n), tetraploides (4n) y así sucesivamente.
 
 La poliploidía puede ocurrir de forma natural o puede ser causada por la intervención humana. Por ejemplo, algunas plantas poliploides se producen a través de la hibridación natural entre especies relacionadas, mientras que otras son el resultado de tratamientos químicos o radiación que aumentan el número de cromosomas en una planta.
 
-Las plantas poliploides a menudo tienen características distintivas que las diferencian de las diploides, como tamaño de hoja y flor mayor, mayor resistencia a enfermedades y plagas, y mayor productividad
+Las plantas poliploides a menudo tienen características distintivas que las diferencian de las diploides, cómo tamaño de hoja y flor mayor, mayor resistencia a enfermedades y plagas, y mayor productividad
 
 
 ###
-<h2 align="left">🌱 Como se muta a poliploide una planta?</h2>
+<h2 align="left">🌱 cómo se muta a poliploide una planta?</h2>
 
 ###
 
 Hay varias formas de inducir la poliploidía en las plantas, algunas de las cuales incluyen:
 
 
-Oryzalin es un herbicida que se utiliza para inhibir la división celular durante la meiosis, lo que resulta en la formación de células poliploides. Esta técnica se ha utilizado principalmente en plantas cultivadas, como cereales, para aumentar el tamaño y la resistencia de las plantas. Sin embargo, también se utiliza en investigación para estudiar el efecto de la poliploidía en la biología de las plantas.
+Oryzalin es un herbicida que se utiliza para inhibir la división celular durante la meiosis, lo que resulta en la formación de células poliploides. Esta técnica se ha utilizado principalmente en plantas cultivadas, cómo cereales, para aumentar el tamaño y la resistencia de las plantas. Sin embargo, también se utiliza en investigación para estudiar el efecto de la poliploidía en la biología de las plantas.
 
 Colchicina es un alcaloide presente en varias plantas, que se utiliza para inducir la poliploidía al inhibir la división celular durante la meiosis. Esto resulta en células con más de dos sets completos de cromosomas.
 
@@ -251,7 +251,7 @@ Es importante destacar que el proceso puede variar dependiendo del tipo de plant
 ###
 Claro que si!
 
-La inducción de la poliploidía mediante el uso de colchicina fue descubierta por el botánico estadounidense Lionel de la Torre (1899-1978) y el botánico colombiano-estadounidense Harold E. Moore Jr. en el año 1923. Los dos botánicos trabajaron juntos en la Universidad de Colombia en Nueva York (ahora conocida como Fordham University) y descubrieron que la colchicina podía causar la poliploidía al inhibir la división celular durante la meiosis.
+La inducción de la poliploidía mediante el uso de colchicina fue descubierta por el botánico estadounidense Lionel de la Torre (1899-1978) y el botánico colombiano-estadounidense Harold E. Moore Jr. en el año 1923. Los dos botánicos trabajaron juntos en la Universidad de Colombia en Nueva York (ahora conocida cómo Fordham University) y descubrieron que la colchicina podía causar la poliploidía al inhibir la división celular durante la meiosis.
 
 Posteriormente, la colchicina se ha utilizado en una variedad de plantas para inducir la poliploidía, incluyendo cereales, plantas forrajeras, flores, frutas y vegetales, y ha sido esencial para el desarrollo de nuevas variedades y la mejora de las existentes.
 
@@ -291,11 +291,11 @@ Aquí hay algunos ejemplos de papers o estudios científicos que han investigado
 Si querés aprender más sobre la mutacion poliploide hay varios papers sobre el tema en [/papers/](https://github.com/LaHuertaDelDiablo/SuperCannabisArgentino/tree/main/papers)
 
 
-<h2 align="left">🤔 Al hacer esto soy como Monsanto?</h2>
+<h2 align="left">🤔 Al hacer esto soy cómo Monsanto?</h2>
 
 ###
 
-Claro que no! Es más ser como el Profesor Xavier o como Magneto!
+Claro que no! Es más ser cómo el Profesor Xavier o cómo Magneto!
 
 Mutar frutas o flores a poliploide se hace muchos años, las bananas que compramos en el súper son poliploides creadas por el científicos, las originales tienen semillas!
 
