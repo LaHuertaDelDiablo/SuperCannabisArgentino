@@ -287,7 +287,8 @@ Aquí hay algunos ejemplos de papers o estudios científicos que han investigado
 
 "Development of tetraploid Cannabis sativa L. using colchicine treatment" (2016) publicado en Journal of Applied Research on Medicinal and Aromatic Plants. Este estudio también mostró que la colchicina es eficaz para inducir la poliploidía en plantas de cannabis y que las plantas poliploides tienen un mayor tamaño y rendimiento.
 
-Si querés aprender más sobre el tema hay varios papers sobre el tema en [/papers/](https://github.com/LaHuertaDelDiablo/SuperCannabisArgentino/tree/main/papers)
+
+Si querés aprender más sobre la mutacion poliploide hay varios papers sobre el tema en [/papers/](https://github.com/LaHuertaDelDiablo/SuperCannabisArgentino/tree/main/papers)
 
 
 <h2 align="left">🤔 Al hacer esto soy como Monsanto?</h2>
