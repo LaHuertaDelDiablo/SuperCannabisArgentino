@@ -5,7 +5,7 @@ de desarrollo grupal por la comunidad canabica Argentina con uso y distribución
 <p align="center">Hackeando cannabis desde Argentina</p></h2>
 
 
-<h2 align="left">🌱 Que es el SuperCannabis Argentino?</h2>
+<h2 align="left">🌱 Que es el SuperCannabis poliploide?</h2>
 
 ###
 <p align="left">El SuperCanabis es una genetica de cannabis seleccionada por su alta adaptacion a induccion poliploide la cual tiene varias ventajas en comparación con una planta de cannabis comun:</p>
