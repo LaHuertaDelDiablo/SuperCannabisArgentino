@@ -11,7 +11,7 @@ de desarrollo grupal por la comunidad canabica Argentina con uso y distribución
 <p align="left">El SuperCanabis es una genetica de cannabis seleccionada por su alta adaptacion a induccion poliploide la cual tiene varias ventajas en comparación con una planta de cannabis comun:</p>
 
 
-La diferencia entre las plantas de cannabis diploides y las polipoides se refiere a la cantidad de cromosomas que tienen. Una planta diploide tiene dos conjuntos completos de cromosomas (2n), el cannabis en la naturaleza es diploide, mientras que una planta polipoide tiene más de dos conjuntos (n+n) de cromosomas. Esto puede ocurrir debido a una mutación o a un cruce entre diferentes variedades de cannabis (algo poco normal). A menudo, las plantas polipoides tienen características diferentes a las plantas diploides, como un mayor contenido de THC, mayor tamaño y aumento el ratio de flores vs hojas.
+La diferencia entre las plantas de cannabis diploides y las polipoides se refiere a la cantidad de cromosomas que tienen. Una planta diploide tiene dos conjuntos completos de cromosomas (2n), el cannabis en la naturaleza es diploide, mientras que una planta polipoide tiene más de dos conjuntos (n+n) de cromosomas. Esto puede ocurrir debido a una mutación o a un cruce entre diferentes variedades de cannabis (algo poco normal). Las plantas polipoides tienen características diferentes a las plantas diploides, como un mayor contenido de THC, mayor tamaño y aumento el ratio de flores vs hojas.
 ###
 1. Las plantas poliploides tienden a ser más grandes y más fuertes que las plantas diploides, lo que las hace más resistentes a enfermedades y plagas.
 2. Tienden a tener un mayor rendimiento en términos de producción de flores y resina.
@@ -71,10 +71,26 @@ Vamos a poner a Argentina en el podio de la producción de cannabis de calidad a
 <h2 align="left">🤝 Como puedo participar?</h2>
 
 ###
+Es muy fácil!
 
-Es muy fácil, tenes que cultivar 2 plantas de la misma genética, la que más te guste, una la vas a mutar a poliploide siguiendo un video instructivo, la otra va a quedar normal, durante el ciclo de cultivo tenemos que controlar los cambios entre la planta mutada (poliploide) y la normal para reportarlos en un formulario mensualmente con el cual vamos a armar una base de datos con los resultados de todas las genéticas.
-Vamos a reportar ítems como cantidad de flores, aspecto, medidas, cantidad de resina, cambios en los terpenos, resistencia a plagas y hongos, también va a incluir fotos de las plantas para poder compararlas.
+Tenés que cultivar 2 plantas de la misma genética, la que más te guste, una la vas a mutar a poliploide siguiendo un video instructivo, la otra va a quedar normal, durante el ciclo de cultivo tenemos que controlar los cambios entre la planta mutada (poliploide) y la normal para reportarlos en un formulario mensualmente con el cual vamos a armar una base de datos con los resultados de todos los cultivadores.
 
+
+Vamos a reportar ítems como cantidad de flores, aspecto, medidas, cantidad de resina, cambios en los terpenos, resistencia a plagas y hongos, también va a incluir fotos de las plantas para poder compararlas. 
+
+En el instructivo vamos a mutar 3 plantas:
+
+1. Una semilla germinada que tenga raíz radicular a la vista (2 días de germinación tipo ovni) la cual va a ocasionar que toda la planta mute a poliploide
+
+2. Un clon chico donde vamos a mutar el ápice, esto muta toda la planta pero no las raíces.
+
+3. Una planta con un mínimo de 2 ramas y 3 nudos donde vamos a mutar solo la punta apical de una sola de las ramas y todo el crecimiento apical desde ese punto va a mutar, pero no es resto de la planta, esta opción se puede aplicar en plantas de exterior
+
+La opción 1 produce plantas mutadas con mayor variación, es la que suelo usar y me da mejores resultados.
+
+La opción 2 nos permite notar mejor las diferencias de produccion, al usar dos clones de la misma planta. esto es lo que hacen los laboratorios, porque no lo hacemos nosotros con 3000 genéticas?
+
+La opción 3 simplifica la comparacion, ya que la rama mutada es la única que tenemos que comparar con el resto y permite participar en el proyecto con una sola por planta por genética.
 ###
 
 <h2 align="left">🎯 Que vamos a hacer con esa informacion?</h2>
@@ -151,7 +167,8 @@ La compañía [Dutch Passion](https://dutch-passion.com/en/blog/the-seedless-tri
 
 Las mutaciones poliploides son el futuro para el desarrollo del cannabis.
 
-Ellos lo están haciendo las investigaciones en grupos chicos, laboratorios de 3 o 4 personas, en entorno cerrados, dentro de la caja, nosotros somos cientos, cultivamos mejor y tenemos más genéticas, podemos hacer algo mejor y más rápido.
+Estas compañías internacionales están haciendo las investigaciones en grupos chicos, laboratorios de 3 o 4 personas, en entorno cerrados, dentro de la caja, nosotros podemos ser cientos, cultivamos mejor y tenemos más genéticas, podemos hacer algo superior y más rápido.
+Vamos a hacer el mismo trabajo que ellos con una selección de fenotipos y condiciones mucho más amplia.
 
 <h2 align="left">🌱 Como se muta a poliploide una planta?</h2>
 
