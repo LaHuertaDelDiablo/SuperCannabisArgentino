@@ -68,7 +68,7 @@ Vamos a poner a Argentina en el podio de la producción de cannabis de calidad a
 
 ###
 
-<h2 align="left">🤝 cómo puedo participar?</h2>
+<h2 align="left">🤝 Cómo puedo participar?</h2>
 
 ###
 Es muy fácil!
@@ -185,7 +185,7 @@ Las plantas poliploides a menudo tienen características distintivas que las dif
 
 
 ###
-<h2 align="left">🌱 cómo se muta a poliploide una planta?</h2>
+<h2 align="left">🌱 Cómo se muta a poliploide una planta?</h2>
 
 ###
 
@@ -317,13 +317,15 @@ Esto es evolución
 
 Tareas en las que vamos a necesitar colaboracion:
 
+
 - [ ] La ayuda de toda la comunidad canabica para hacer las pruebas A/B con plantas mutadas
+- [ ] Influencers cannabicos que puedan apoyar y dar a conocer el proyecto
 - [ ] Bredders que nos ayudan a probar varias genéticas en paralelo, este trabajo les sirve al mismo tiempo para desarollar sus propias semillas poliploides
 - [ ] Abogadxs que nos asesoren en lo relativo a licencias cc/gnu y distribución de las plantas y semillas
 - [ ] Organizadores de copas canabicas para ayudarnos en la selección de fenotipos mutados en la ultima etapa
 - [ ] Científicxs / Médicxs / Ing. Agronomxs que quieran ayudar en el desarrollo de los protocolos de aplicación y control de resultados
 - [ ] Diseñadxr para un logo y página web del proyecto
-- [ ] Ayuda de ONGs canabicas para la viralización del proyecto
+- [ ] Ayuda de ONGs canabicas para la viralización del proyecto, distribucion de clones y semillas
 - [ ] Acceso a un análisis cromosómico para comprobaciones finales
 
 Si se te ocurre otra forma de participar contactanos!
