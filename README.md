@@ -149,20 +149,14 @@ NO! Esto tiene que ser todo gratis, es de la comunidad para la comunidad, vamos 
 
 ###
 
-<h2 align="left">🌱 Que es una planta poliploide?</h2>
-
-###
-
-Una planta poliploide es aquella que tiene más de dos sets completos de cromosomas en sus células. El número de sets completos se conoce como ploidía. La ploidía más común en las plantas es diploide, que tiene dos sets completos de cromosomas (2n). Sin embargo, algunas plantas son triploides (3n), tetraploides (4n) y así sucesivamente.
-
-La poliploidía puede ocurrir de forma natural o puede ser causada por la intervención humana. Por ejemplo, algunas plantas poliploides se producen a través de la hibridación natural entre especies relacionadas, mientras que otras son el resultado de tratamientos químicos o radiación que aumentan el número de cromosomas en una planta.
-
-Las plantas poliploides a menudo tienen características distintivas que las diferencian de las diploides, como tamaño de hoja y flor mayor, mayor resistencia a enfermedades y plagas, y mayor productividad
 
 
-###
+
 <h2 align="left">🌱 Hay poyectos comerciales con cannabis poliploide en otros paises?</h2>
 
+Estos son solos algunas de las compañías extrajeras que se presentaron cannabis poliploide en el 2022
+
+Que esperamos para ser los primeros en América Latina? ¡Argentina tiene sangre de campo!
 
 La compañía [Oregon CBD](https://oregoncbdseeds.com/triploids/) en USA por ejemplo tiene la mayor producción de plantas triploides de alto CBD del mundo, estas plantas producen el doble de flores que una planta normal, 
 
@@ -175,6 +169,22 @@ Las mutaciones poliploides son el futuro para el desarrollo del cannabis.
 Estas compañías internacionales están haciendo las investigaciones en grupos chicos, laboratorios de 3 o 4 personas, en entorno cerrados, dentro de la caja, nosotros podemos ser cientos, cultivamos mejor y tenemos más genéticas, podemos hacer algo superior y más rápido.
 Vamos a hacer el mismo trabajo que ellos con una selección de fenotipos y condiciones mucho más amplia.
 
+
+
+
+
+<h2 align="left">🌱 Que es una planta poliploide?</h2>
+
+###
+
+Una planta poliploide es aquella que tiene más de dos sets completos de cromosomas en sus células. El número de sets completos se conoce como ploidía. La ploidía más común en las plantas es diploide, que tiene dos sets completos de cromosomas (2n). Sin embargo, algunas plantas son triploides (3n), tetraploides (4n) y así sucesivamente.
+
+La poliploidía puede ocurrir de forma natural o puede ser causada por la intervención humana. Por ejemplo, algunas plantas poliploides se producen a través de la hibridación natural entre especies relacionadas, mientras que otras son el resultado de tratamientos químicos o radiación que aumentan el número de cromosomas en una planta.
+
+Las plantas poliploides a menudo tienen características distintivas que las diferencian de las diploides, como tamaño de hoja y flor mayor, mayor resistencia a enfermedades y plagas, y mayor productividad
+
+
+###
 <h2 align="left">🌱 Como se muta a poliploide una planta?</h2>
 
 ###
