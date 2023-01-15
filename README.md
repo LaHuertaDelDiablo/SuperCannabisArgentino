@@ -73,14 +73,15 @@ Vamos a poner a Argentina en el podio de la producción de cannabis de calidad a
 ###
 Es muy fácil!
 
-Tenés que cultivar 2 plantas de la misma genética, la que más te guste, una la vas a mutar a poliploide siguiendo un video instructivo, la otra va a quedar normal, durante el ciclo de cultivo tenemos que controlar los cambios entre la planta mutada (poliploide) y la normal para reportarlos en un formulario mensualmente con el cual vamos a armar una base de datos con los resultados de todos los cultivadores.
+Tenés que cultivar 2 plantas de la misma genética, la que más te guste, una la vas a mutar a poliploide siguiendo un video instructivo, la otra va a quedar normal, durante el ciclo de cultivo tenemos que controlar los cambios entre la planta mutada poliploide y la normal, para luego reportarlos en un formulario todos los meses.
 
+Con esta información vamos a armar una base de datos pública con los resultados de todos los cultivadores y realizar comparativas que nos permitan seleccionar las genéticas que mejor se adaptaron a la mutación y pasar a  la segunda etapa de selección.
 
 Vamos a reportar ítems como cantidad de flores, aspecto, medidas, cantidad de resina, cambios en los terpenos, resistencia a plagas y hongos, también va a incluir fotos de las plantas para poder compararlas. 
 
-En el instructivo vamos a mutar 3 plantas:
+En el video instructivo vamos a mutar 3 plantas:
 
-1. Una semilla germinada que tenga raíz radicular a la vista (2 días de germinación tipo ovni) la cual va a ocasionar que toda la planta mute a poliploide
+1. Una semilla germinada que tenga la raíz radicular a la vista (2 días de germinación tipo ovni) la cual va a ocasionar que toda la planta mute a poliploide.
 
 2. Un clon chico donde vamos a mutar el ápice, esto muta toda la planta pero no las raíces.
 
@@ -88,24 +89,31 @@ En el instructivo vamos a mutar 3 plantas:
 
 La opción 1 produce plantas mutadas con mayor variación, es la que suelo usar y me da mejores resultados.
 
-La opción 2 nos permite notar mejor las diferencias de produccion, al usar dos clones de la misma planta. esto es lo que hacen los laboratorios, porque no lo hacemos nosotros con 3000 genéticas?
+La opción 2 nos permite notar mejor las diferencias de producción, al usar dos clones de la misma planta. Esto es lo que hacen los laboratorios, porque no lo hacemos nosotros con 3000 genéticas?
 
-La opción 3 simplifica la comparacion, ya que la rama mutada es la única que tenemos que comparar con el resto y permite participar en el proyecto con una sola por planta por genética.
+La opción 3 simplifica la comparación, ya que la rama mutada es la única que tenemos que comparar con el resto y permite participar en el proyecto con una sola por planta por genética.
 ###
 
-<h2 align="left">🎯 Que vamos a hacer con esa informacion?</h2>
+<h2 align="left">🎯 Cuantas etapas tiene el proyecto?</h2>
 
 ###
 
 El proyecto tiene 3 etapas 
 
-Etapa 1 Búsqueda de la genética correcta:
-Con los datos de las plantas que mutamos, vamos a comparar resultados para seleccionar las genéticas y fenotipos que mejor respondieron produciendo mayor cantidad de flores y resina.
 
-Etapa 2 Distribuir las genéticas para pruebas:
-Como comunidad vamos a distribuir clones/semillas de las genéticas seleccionadas para volver a mutarlas en diferentes zonas climáticas y condiciones de cultivo, repitiendo el protocolo con una cantidad limitada de genéticas seleccionadas por el nivel de respuesta a la mutación.
+<h2 aling='center'>
+Etapa 1 Búsqueda de las genéticas correctas:
 
-Etapa 3 Selección en forma grupal de la genética ganadora (sería ideal realizarlo en alguna copa de cata) y definirla como genética base para el SuperCannabis Argentino.
+Con los datos de las plantas que mutamos, vamos a comparar resultados para seleccionar las genéticas y fenotipos que mejor respondieron a la mutación produciendo mayor cantidad de flores y resina.
+
+Etapa 2 Distribuir las genéticas seleccionadas para confirmación:
+
+Como comunidad vamos a distribuir clones/semillas de las genéticas seleccionadas para volver a mutarlas en diferentes zonas climáticas y condiciones de cultivo, repitiendo el protocolo con una cantidad limitada de genéticas seleccionadas por un alto nivel de respuesta a la mutación.
+
+Etapa 3 Selección en forma grupal de la genética ganadora (sería ideal realizarlo en alguna copa de cata) y definirla como genética base para el SuperCannabis Argentino. Tendríamos que determinar entre cuantas de las genéticas que mejor respondieron para seleccionar a la ganadora y definir el resto para hacer variaciones del supercannabis principal.
+
+Desde este punto la posibilidad de crecimiento es infinita, tendríamos una base de superproduccion tanto para desarrollar el cultivo medicinal personal como para la industria, con técnicas de cultivo avanzadas como enjaulado se pueden obtener producciones de 3 kilos de flores secas por planta, en caso de ser plantas poliploides se podría sobrepasar los 5 kilos de producción seca por planta en el entorno correcto.
+</h2>
 
 
 ###
