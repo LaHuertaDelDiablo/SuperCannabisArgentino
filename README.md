@@ -10,6 +10,8 @@ de desarrollo grupal por la comunidad canabica Argentina con uso y distribución
 ###
 <p align="left">El SuperCanabis es una genetica de cannabis seleccionada por su alta adaptacion a induccion poliploide la cual tiene varias ventajas en comparación con una planta de cannabis comun:</p>
 
+
+La diferencia entre las plantas de cannabis diploides y las polipoides se refiere a la cantidad de cromosomas que tienen. Una planta diploide tiene dos conjuntos completos de cromosomas (2n), el cannabis en la naturaleza es diploide, mientras que una planta polipoide tiene más de dos conjuntos (n+n) de cromosomas. Esto puede ocurrir debido a una mutación o a un cruce entre diferentes variedades de cannabis (algo poco normal). A menudo, las plantas polipoides tienen características diferentes a las plantas diploides, como un mayor contenido de THC, mayor tamaño y aumento el ratio de flores vs hojas.
 ###
 1. Las plantas poliploides tienden a ser más grandes y más fuertes que las plantas diploides, lo que las hace más resistentes a enfermedades y plagas.
 2. Tienden a tener un mayor rendimiento en términos de producción de flores y resina.
