@@ -101,15 +101,12 @@ La opción 3 simplifica la comparación, ya que la rama mutada es la única que 
 El proyecto tiene 3 etapas 
 
 1. Etapa: Búsqueda de las genéticas correctas.
-
    Con los datos de las plantas que mutamos, vamos a comparar resultados para seleccionar las genéticas y fenotipos que mejor respondieron a la mutación produciendo mayor cantidad de flores y resina.
 
 2. Etapa:  Distribuir las genéticas seleccionadas para confirmación.
-
    Como comunidad vamos a distribuir clones/semillas de las genéticas seleccionadas para volver a mutarlas en diferentes zonas climáticas y condiciones de cultivo, repitiendo el protocolo con una cantidad limitada de genéticas seleccionadas por un alto nivel de respuesta a la mutación.
 
 3. Etapa: Selección en forma grupal de la genética ganadora. 
-
    Sería ideal realizarlo en alguna copa de cata) y definirla como genética base para el SuperCannabis Argentino. Tendríamos que determinar entre cuantas de las genéticas que mejor respondieron para seleccionar a la ganadora y definir el resto para hacer variaciones del supercannabis principal.
 
 
