@@ -184,15 +184,18 @@ La poliploidía puede ocurrir de forma natural o puede ser causada por la interv
 Las plantas poliploides a menudo tienen características distintivas que las diferencian de las diploides, cómo tamaño de hoja y flor mayor, mayor resistencia a enfermedades y plagas, y mayor productividad
 
 
-<h2 align="left">🌱Porque se pueden crear plantas que no puedan ser polinizadas?</h2>
+<h2 align="left">🌱 Porque se pueden crear plantas que no puedan ser polinizadas?</h2>
 Algunas plantas poliploides no pueden fertilizarse debido a que no tienen parejas cromosómicas completas para formar células reproductoras fértiles.
 Esto se debe a que tienen un número impar de cromosomas, triploides por ejemplo, lo que significa que no pueden formar células reproductoras con la misma cantidad de cromosomas.
 
+
 En los cultivos de cannabis las perdidas en por errores de polinización son enormes, con esta técnica se soluciona este problema tanto en cultivos comerciales como en el cultivo medicinal hogareño.
 
+<h2 align="left">🌱 Como se reproduce una planta con cromosomas impares?</H2>
 
+Hay varias formas en que una planta con cromosomas impares puede reproducirse. Una de ellas es mediante la reproducción asexual como la propagación por esquejes o micropropagación.
 
-
+Otra forma es mediante la reproducción sexual pero utilizando técnicas como la auto-fecundación revirtiendo sexo.
 
 
 
